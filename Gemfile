@@ -46,3 +46,6 @@ end
 
 gem 'activeadmin', github: 'gregbell/active_admin'
 gem 'devise'
+
+# herokuでログを出すために入れます
+gem 'rails_12factor', group: :production
