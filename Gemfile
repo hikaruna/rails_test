@@ -43,3 +43,5 @@ group :development, :test do
   gem 'spring'
 end
 
+gem 'activeadmin', github: 'gregbell/active_admin'
+gem 'devise'
