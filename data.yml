@@ -1,0 +1,3565 @@
+---
+- :name: "フシギダネ"
+  :kind: "たねポケモン"
+  :no: 1
+  :type1: "くさ"
+  :type2: "どく"
+- :name: "フシギソウ"
+  :kind: "たねポケモン"
+  :no: 2
+  :type1: "くさ"
+  :type2: "どく"
+  :evolution_from_name: "フシギダネ"
+- :name: "フシギバナ"
+  :kind: "たねポケモン"
+  :no: 3
+  :type1: "くさ"
+  :type2: "どく"
+  :evolution_from_name: "フシギソウ"
+- :name: "ヒトカゲ"
+  :kind: "とかげポケモン"
+  :no: 4
+  :type1: "ほのお"
+  :type2: 
+- :name: "リザード"
+  :kind: "とかげポケモン"
+  :no: 5
+  :type1: "ほのお"
+  :type2: 
+  :evolution_from_name: "ヒトカゲ"
+- :name: "リザードン"
+  :kind: "とかげポケモン"
+  :no: 6
+  :type1: "ほのお"
+  :type2: "ひこう"
+  :evolution_from_name: "リザード"
+- :name: "ゼニガメ"
+  :kind: "かめのこポケモン"
+  :no: 7
+  :type1: "みず"
+  :type2: 
+- :name: "カメール"
+  :kind: "かめポケモン"
+  :no: 8
+  :type1: "みず"
+  :type2: 
+  :evolution_from_name: "ゼニガメ"
+- :name: "カメックス"
+  :kind: "こうらポケモン"
+  :no: 9
+  :type1: "みず"
+  :type2: 
+  :evolution_from_name: "カメール"
+- :name: "キャタピー"
+  :kind: "いもむしポケモン"
+  :no: 10
+  :type1: "むし"
+  :type2: 
+- :name: "トランセル"
+  :kind: "さなぎポケモン"
+  :no: 11
+  :type1: "むし"
+  :type2: 
+  :evolution_from_name: "キャタピー"
+- :name: "バタフリー"
+  :kind: "ちょうちょポケモン"
+  :no: 12
+  :type1: "むし"
+  :type2: "ひこう"
+  :evolution_from_name: "トランセル"
+- :name: "ビードル"
+  :kind: "けむしポケモン"
+  :no: 13
+  :type1: "むし"
+  :type2: "どく"
+- :name: "コクーン"
+  :kind: "さなぎポケモン"
+  :no: 14
+  :type1: "むし"
+  :type2: "どく"
+  :evolution_from_name: "ビードル"
+- :name: "スピアー"
+  :kind: "どくばちポケモン"
+  :no: 15
+  :type1: "むし"
+  :type2: "どく"
+  :evolution_from_name: "コクーン"
+- :name: "ポッポ"
+  :kind: "ことりポケモン"
+  :no: 16
+  :type1: "ノーマル"
+  :type2: "ひこう"
+- :name: "ピジョン"
+  :kind: "とりポケモン"
+  :no: 17
+  :type1: "ノーマル"
+  :type2: "ひこう"
+  :evolution_from_name: "ポッポ"
+- :name: "ピジョット"
+  :kind: "とりポケモン"
+  :no: 18
+  :type1: "ノーマル"
+  :type2: "ひこう"
+  :evolution_from_name: "ピジョン"
+- :name: "コラッタ"
+  :kind: "ねずみポケモン"
+  :no: 19
+  :type1: "ノーマル"
+  :type2: 
+- :name: "ラッタ"
+  :kind: "ねずみポケモン"
+  :no: 20
+  :type1: "ノーマル"
+  :type2: 
+  :evolution_from_name: "コラッタ"
+- :name: "オニスズメ"
+  :kind: "ことりポケモン"
+  :no: 21
+  :type1: "ひこう"
+  :type2: "ノーマル"
+- :name: "オニドリル"
+  :kind: "ことりポケモン"
+  :no: 21
+  :type1: "ひこう"
+  :type2: "ノーマル"
+  :evolution_from_name: "オニスズメ"
+- :name: "アーボ"
+  :kind: "へびポケモン"
+  :no: 23
+  :type1: "どく"
+  :type2: 
+- :name: "アーボック"
+  :kind: "コブラポケモン"
+  :no: 24
+  :type1: "どく"
+  :type2: 
+  :evolution_from_name: "アーボ"
+- :name: "ピカチュウ"
+  :kind: "ねずみポケモン"
+  :no: 25
+  :type1: "でんき"
+  :type2: 
+  :evolution_from_name: "ピチュー"
+- :name: "ライチュウ"
+  :kind: "ねずみポケモン"
+  :no: 26
+  :type1: "でんき"
+  :type2: 
+  :evolution_from_name: "ピカチュウ"
+- :name: "サンド"
+  :kind: "ねずみポケモン"
+  :no: 27
+  :type1: "じめん"
+  :type2: 
+- :name: "サンドパン"
+  :kind: "ねずみポケモン"
+  :no: 28
+  :type1: "じめん"
+  :type2: 
+  :evolution_from_name: "サンド"
+- :name: "ニドラン♀"
+  :kind: "どくばりポケモン"
+  :no: 29
+  :type1: "どく"
+  :type2: 
+- :name: "ニドリーナ"
+  :kind: "どくばりポケモン"
+  :no: 30
+  :type1: "どく"
+  :type2: 
+  :evolution_from_name: "ニドラン♀"
+- :name: "ニドクイン"
+  :kind: "ドリルポケモン"
+  :no: 31
+  :type1: "どく"
+  :type2: "じめん"
+  :evolution_from_name: "ニドリーナ"
+- :name: "ニドラン♂"
+  :kind: "どくばりポケモン"
+  :no: 32
+  :type1: "どく"
+  :type2: 
+- :name: "ニドリーノ"
+  :kind: "どくばりポケモン"
+  :no: 33
+  :type1: "どく"
+  :type2: 
+  :evolution_from_name: "ニドラン♂"
+- :name: "ニドキング"
+  :kind: "ドリルポケモン"
+  :no: 34
+  :type1: "どく"
+  :type2: "じめん"
+  :evolution_from_name: "ニドリーノ"
+- :name: "ピッピ"
+  :kind: "妖精ポケモン"
+  :no: 35
+  :type1: "ノーマル"
+  :type2: 
+  :evolution_from_name: "ピィ"
+- :name: "ピクシー"
+  :kind: "妖精ポケモン"
+  :no: 36
+  :type1: "ノーマル"
+  :type2: 
+  :evolution_from_name: "ピッピ"
+- :name: "ロコン"
+  :kind: "きつねポケモン"
+  :no: 37
+  :type1: "ほのお"
+  :type2: 
+- :name: "キュウコン"
+  :kind: "きつねポケモン"
+  :no: 38
+  :type1: "ほのお"
+  :type2: 
+  :evolution_from_name: "ロコン"
+- :name: "プリン"
+  :kind: "ふうせんポケモン"
+  :no: 39
+  :type1: "ノーマル"
+  :type2: 
+  :evolution_from_name: "ププリン"
+- :name: "プクリン"
+  :kind: "ふうせんポケモン"
+  :no: 40
+  :type1: "ノーマル"
+  :type2: 
+  :evolution_from_name: "プリン"
+- :name: "ズバット"
+  :kind: "こうもりポケモン"
+  :no: 41
+  :type1: "ひこう"
+  :type2: "どく"
+- :name: "ゴルバット"
+  :kind: "こうもりポケモン"
+  :no: 42
+  :type1: "ひこう"
+  :type2: "どく"
+  :evolution_from_name: "ズバット"
+- :name: "ナゾノクサ"
+  :kind: "ざっそうポケモン"
+  :no: 43
+  :type1: "くさ"
+  :type2: "どく"
+- :name: "クサイハナ"
+  :kind: "ざっそうポケモン"
+  :no: 44
+  :type1: "くさ"
+  :type2: "どく"
+  :evolution_from_name: "ナゾノクサ"
+- :name: "ラフレシア"
+  :kind: "フラワーポケモン"
+  :no: 45
+  :type1: "くさ"
+  :type2: "どく"
+  :evolution_from_name: "クサイハナ"
+- :name: "パラス"
+  :kind: "きのこポケモン"
+  :no: 46
+  :type1: "くさ"
+  :type2: "むし"
+- :name: "パラセクト"
+  :kind: "きのこポケモン"
+  :no: 47
+  :type1: "くさ"
+  :type2: "むし"
+  :evolution_from_name: "パラス"
+- :name: "コンパン"
+  :kind: "こんちゅうポケモン"
+  :no: 48
+  :type1: "どく"
+  :type2: "むし"
+- :name: "モルフォン"
+  :kind: "どくがポケモン"
+  :no: 49
+  :type1: "どく"
+  :type2: "むし"
+  :evolution_from_name: "コンパン"
+- :name: "ディグダ"
+  :kind: "もぐらポケモン"
+  :no: 50
+  :type1: "じめん"
+  :type2: 
+- :name: "ダグトリオ"
+  :kind: "もぐらポケモン"
+  :no: 51
+  :type1: "じめん"
+  :type2: 
+  :evolution_from_name: "ディグダ"
+- :name: "ニャース"
+  :kind: "ばけねこポケモン"
+  :no: 52
+  :type1: "ノーマル"
+  :type2: 
+- :name: "ペルシアン"
+  :kind: "シャムネコポケモン"
+  :no: 53
+  :type1: "ノーマル"
+  :type2: 
+  :evolution_from_name: "ニャース"
+- :name: "コダック"
+  :kind: "あひるポケモン"
+  :no: 54
+  :type1: "みず"
+  :type2: 
+- :name: "ゴルダック"
+  :kind: "あひるポケモン"
+  :no: 55
+  :type1: "みず"
+  :type2: 
+  :evolution_from_name: "コダック"
+- :name: "マンキー"
+  :kind: "ぶたざるポケモン"
+  :no: 56
+  :type1: "かくとう"
+  :type2: 
+- :name: "オコリザル"
+  :kind: "ぶたざるポケモン"
+  :no: 57
+  :type1: "かくとう"
+  :type2: 
+  :evolution_from_name: "マンキー"
+- :name: "ガーディ"
+  :kind: "こいぬポケモン"
+  :no: 58
+  :type1: "ほのお"
+  :type2: 
+- :name: "ウインディ"
+  :kind: "でんせつポケモン"
+  :no: 59
+  :type1: "ほのお"
+  :type2: 
+  :evolution_from_name: "ガーディ"
+- :name: "ニョロモ"
+  :kind: "おたまポケモン"
+  :no: 60
+  :type1: "みず"
+  :type2: 
+- :name: "ニョロゾ"
+  :kind: "おたまポケモン"
+  :no: 61
+  :type1: "みず"
+  :type2: 
+  :evolution_from_name: "ニョロモ"
+- :name: "ニョロボン"
+  :kind: "おたまポケモン"
+  :no: 62
+  :type1: "みず"
+  :type2: "かくとう"
+  :evolution_from_name: "ニョロゾ"
+- :name: "ケーシィ"
+  :kind: "ねんりきポケモン"
+  :no: 63
+  :type1: "エスパー"
+  :type2: 
+- :name: "ユンゲラー"
+  :kind: "ねんりきポケモン"
+  :no: 64
+  :type1: "エスパー"
+  :type2: 
+  :evolution_from_name: "ケーシィ"
+- :name: "フーディン"
+  :kind: "ねんりきポケモン"
+  :no: 65
+  :type1: "エスパー"
+  :type2: 
+  :evolution_from_name: "ユンゲラー"
+- :name: "ワンリキー"
+  :kind: "かいりきポケモン"
+  :no: 66
+  :type1: "かくとう"
+  :type2: 
+- :name: "ゴーリキー"
+  :kind: "かいりきポケモン"
+  :no: 67
+  :type1: "かくとう"
+  :type2: 
+  :evolution_from_name: "ワンリキー"
+- :name: "カイリキー"
+  :kind: "かいりきポケモン"
+  :no: 68
+  :type1: "かくとう"
+  :type2: 
+  :evolution_from_name: "ゴーリキー"
+- :name: "マダツボミ"
+  :kind: "フラワーポケモン"
+  :no: 69
+  :type1: "くさ"
+  :type2: "どく"
+- :name: "ウツドン"
+  :kind: "ハエとりポケモン"
+  :no: 70
+  :type1: "くさ"
+  :type2: "どく"
+  :evolution_from_name: "マダツボミ"
+- :name: "ウツボット"
+  :kind: "ハエとりポケモン"
+  :no: 71
+  :type1: "くさ"
+  :type2: "どく"
+  :evolution_from_name: "ウツドン"
+- :name: "メノクラゲ"
+  :kind: "くらげポケモン"
+  :no: 72
+  :type1: "みず"
+  :type2: "どく"
+- :name: "ドククラゲ"
+  :kind: "くらげポケモン"
+  :no: 73
+  :type1: "みず"
+  :type2: "どく"
+  :evolution_from_name: "メノクラゲ"
+- :name: "イシツブテ"
+  :kind: "がんせきポケモン"
+  :no: 74
+  :type1: "いわ"
+  :type2: "じめん"
+- :name: "ゴローン"
+  :kind: "がんせきポケモン"
+  :no: 75
+  :type1: "いわ"
+  :type2: "じめん"
+  :evolution_from_name: "イシツブテ"
+- :name: "ゴローニャ"
+  :kind: "がんせきポケモン"
+  :no: 76
+  :type1: "いわ"
+  :type2: "じめん"
+  :evolution_from_name: "ゴローン"
+- :name: "ポニータ"
+  :kind: "ひのうまポケモン"
+  :no: 77
+  :type1: "ほのお"
+  :type2: 
+- :name: "ギャロップ"
+  :kind: "ひのうまポケモン"
+  :no: 78
+  :type1: "ほのお"
+  :type2: 
+  :evolution_from_name: "ポニータ"
+- :name: "ヤドン"
+  :kind: "まぬけポケモン"
+  :no: 79
+  :type1: "みず"
+  :type2: "エスパー"
+- :name: "ヤドラン"
+  :kind: "やどかりポケモン"
+  :no: 80
+  :type1: "みず"
+  :type2: "エスパー"
+  :evolution_from_name: "ヤドン"
+- :name: "コイル"
+  :kind: "じしゃくポケモン"
+  :no: 81
+  :type1: "でんき"
+  :type2: "はがね"
+- :name: "レアコイル"
+  :kind: "じしゃくポケモン"
+  :no: 82
+  :type1: "でんき"
+  :type2: "はがね"
+  :evolution_from_name: "コイル"
+- :name: "カモネギ"
+  :kind: "かるがもポケモン"
+  :no: 83
+  :type1: "ノーマル"
+  :type2: "ひこう"
+- :name: "ドードー"
+  :kind: "ふたごどりポケモン"
+  :no: 84
+  :type1: "ノーマル"
+  :type2: "ひこう"
+- :name: "ドードリオ"
+  :kind: "みつごどりポケモン"
+  :no: 85
+  :type1: "ノーマル"
+  :type2: "ひこう"
+  :evolution_from_name: "ドードー"
+- :name: "パウワウ"
+  :kind: "あしかポケモン"
+  :no: 86
+  :type1: "みず"
+  :type2: 
+- :name: "ジュゴン"
+  :kind: "あしかポケモン"
+  :no: 87
+  :type1: "みず"
+  :type2: "こおり"
+  :evolution_from_name: "パウワウ"
+- :name: "ベトベター"
+  :kind: "ヘドロポケモン"
+  :no: 88
+  :type1: "どく"
+  :type2: 
+- :name: "ベトベトン"
+  :kind: "ヘドロポケモン"
+  :no: 89
+  :type1: "どく"
+  :type2: 
+  :evolution_from_name: "ベトベター"
+- :name: "シェルダー"
+  :kind: 2まいがいポケモン
+  :no: 90
+  :type1: "みず"
+  :type2: 
+- :name: "パルシェン"
+  :kind: 2まいがいポケモン
+  :no: 91
+  :type1: "みず"
+  :type2: "こおり"
+  :evolution_from_name: "シェルダー"
+- :name: "ゴース"
+  :kind: "ガスじょうポケモン"
+  :no: 92
+  :type1: "ゴースト"
+  :type2: "どく"
+- :name: "ゴースト"
+  :kind: "ガスじょうポケモン"
+  :no: 93
+  :type1: "ゴースト"
+  :type2: "どく"
+  :evolution_from_name: "ゴース"
+- :name: "ゲンガー"
+  :kind: "シャドーポケモン"
+  :no: 94
+  :type1: "ゴースト"
+  :type2: "どく"
+  :evolution_from_name: "ゴースト"
+- :name: "イワーク"
+  :kind: "いわへびポケモン"
+  :no: 95
+  :type1: "いわ"
+  :type2: "じめん"
+- :name: "スリープ"
+  :kind: "さいみんポケモン"
+  :no: 96
+  :type1: "エスパー"
+  :type2: 
+- :name: "スリーパー"
+  :kind: "さいみんポケモン"
+  :no: 97
+  :type1: "エスパー"
+  :type2: 
+  :evolution_from_name: "スリープ"
+- :name: "クラブ"
+  :kind: "さわがにポケモン"
+  :no: 98
+  :type1: "みず"
+  :type2: 
+- :name: "キングラー"
+  :kind: "はさみポケモン"
+  :no: 99
+  :type1: "みず"
+  :type2: 
+  :evolution_from_name: "クラブ"
+- :name: "ビリリダマ"
+  :kind: "ボールポケモン"
+  :no: 100
+  :type1: "でんき"
+  :type2: 
+- :name: "マルマイン"
+  :kind: "ボールポケモン"
+  :no: 101
+  :type1: "でんき"
+  :type2: 
+  :evolution_from_name: "ビリリダマ"
+- :name: "タマタマ"
+  :kind: "たまごポケモン"
+  :no: 102
+  :type1: "くさ"
+  :type2: "エスパー"
+- :name: "ナッシー"
+  :kind: "やしのみポケモン"
+  :no: 103
+  :type1: "くさ"
+  :type2: "エスパー"
+  :evolution_from_name: "タマタマ"
+- :name: "カラカラ"
+  :kind: "こどくポケモン"
+  :no: 104
+  :type1: "じめん"
+  :type2: 
+- :name: "ガラガラ"
+  :kind: "ほねずきポケモン"
+  :no: 105
+  :type1: "じめん"
+  :type2: 
+  :evolution_from_name: "カラカラ"
+- :name: "サワムラー"
+  :kind: "キックポケモン"
+  :no: 106
+  :type1: "かくとう"
+  :type2: 
+  :evolution_from_name: "バルキー"
+- :name: "エビワラー"
+  :kind: "パンチポケモン"
+  :no: 107
+  :type1: "かくとう"
+  :type2: 
+  :evolution_from_name: "サワムラー"
+- :name: "ベロリンガ"
+  :kind: "なめまわしポケモン"
+  :no: 108
+  :type1: "ノーマル"
+  :type2: 
+- :name: "ドガース"
+  :kind: "どくガスポケモン"
+  :no: 109
+  :type1: "どく"
+  :type2: 
+- :name: "マタドガス"
+  :kind: "どくガスポケモン"
+  :no: 110
+  :type1: "どく"
+  :type2: 
+  :evolution_from_name: "ドガース"
+- :name: "サイホーン"
+  :kind: "とげとげポケモン"
+  :no: 111
+  :type1: "じめん"
+  :type2: "いわ"
+- :name: "サイドン"
+  :kind: "ドリルポケモン"
+  :no: 112
+  :type1: "じめん"
+  :type2: "いわ"
+  :evolution_from_name: "サイホーン"
+- :name: "ラッキー"
+  :kind: "たまごポケモン"
+  :no: 113
+  :type1: "ノーマル"
+  :type2: 
+  :evolution_from_name: "ピンプク"
+- :name: "モンジャラ"
+  :kind: "ツルじょうポケモン"
+  :no: 114
+  :type1: "くさ"
+  :type2: 
+- :name: "ガルーラ"
+  :kind: "おやこポケモン"
+  :no: 115
+  :type1: "ノーマル"
+  :type2: 
+- :name: "タッツー"
+  :kind: "ドラゴンポケモン"
+  :no: 116
+  :type1: "みず"
+  :type2: 
+- :name: "シードラ"
+  :kind: "ドラゴンポケモン"
+  :no: 117
+  :type1: "みず"
+  :type2: 
+  :evolution_from_name: "タッツー"
+- :name: "トサキント"
+  :kind: "きんぎょポケモン"
+  :no: 118
+  :type1: "みず"
+  :type2: 
+- :name: "アズマオウ"
+  :kind: "きんぎょポケモン"
+  :no: 119
+  :type1: "みず"
+  :type2: 
+  :evolution_from_name: "トサキント"
+- :name: "ヒトデマン"
+  :kind: "ほしがたポケモン"
+  :no: 120
+  :type1: "みず"
+  :type2: 
+- :name: "スターミー"
+  :kind: "なぞのポケモン"
+  :no: 121
+  :type1: "みず"
+  :type2: "エスパー"
+  :evolution_from_name: "ヒトデマン"
+- :name: "バリヤード"
+  :kind: "バリアーポケモン"
+  :no: 122
+  :type1: "エスパー"
+  :type2: 
+  :evolution_from_name: "マネネ"
+- :name: "ストライク"
+  :kind: "かまきりポケモン"
+  :no: 123
+  :type1: "むし"
+  :type2: "ひこう"
+- :name: "ルージュラ"
+  :kind: "ひとがたポケモン"
+  :no: 124
+  :type1: "こおり"
+  :type2: "エスパー"
+  :evolution_from_name: "ムチュール"
+- :name: "エレブー"
+  :kind: "でんげきポケモン"
+  :no: 125
+  :type1: "でんき"
+  :type2: 
+  :evolution_from_name: "エレキッド"
+- :name: "ブーバー"
+  :kind: "ひふきポケモン"
+  :no: 126
+  :type1: "ほのお"
+  :type2: 
+  :evolution_from_name: "ブビィ"
+- :name: "カイロス"
+  :kind: "くわがたポケモン"
+  :no: 127
+  :type1: "むし"
+  :type2: 
+- :name: "ケンタロス"
+  :kind: "あばれうしポケモン"
+  :no: 128
+  :type1: "ノーマル"
+  :type2: 
+- :name: "コイキング"
+  :kind: "さかなポケモン"
+  :no: 129
+  :type1: "みず"
+  :type2: 
+- :name: "ギャラドス"
+  :kind: "きょうあくポケモン"
+  :no: 130
+  :type1: "みず"
+  :type2: "ひこう"
+  :evolution_from_name: "コイキング"
+- :name: "ラプラス"
+  :kind: "のりものポケモン"
+  :no: 131
+  :type1: "みず"
+  :type2: "こおり"
+- :name: "メタモン"
+  :kind: "へんしんポケモン"
+  :no: 132
+  :type1: "ノーマル"
+  :type2: 
+- :name: "イーブイ"
+  :kind: "しんかポケモン"
+  :no: 133
+  :type1: "ノーマル"
+  :type2: 
+- :name: "シャワーズ"
+  :kind: "あわはきポケモン"
+  :no: 134
+  :type1: "みず"
+  :type2: 
+  :evolution_from_name: "イーブイ"
+- :name: "サンダース"
+  :kind: "かみなりポケモン"
+  :no: 135
+  :type1: "でんき"
+  :type2: 
+  :evolution_from_name: "シャワーズ"
+- :name: "ブースター"
+  :kind: "ほのおポケモン"
+  :no: 136
+  :type1: "ほのお"
+  :type2: 
+  :evolution_from_name: "サンダース"
+- :name: "ポリゴン"
+  :kind: "シージーポケモン"
+  :no: 137
+  :type1: "ノーマル"
+  :type2: 
+- :name: "オムナイト"
+  :kind: "うずまきポケモン"
+  :no: 138
+  :type1: "みず"
+  :type2: "いわ"
+- :name: "オムスター"
+  :kind: "うずまきポケモン"
+  :no: 139
+  :type1: "みず"
+  :type2: "いわ"
+  :evolution_from_name: "オムナイト"
+- :name: "カブト"
+  :kind: "こうらポケモン"
+  :no: 140
+  :type1: "みず"
+  :type2: "いわ"
+- :name: "カブトプス"
+  :kind: "こうらポケモン"
+  :no: 141
+  :type1: "みず"
+  :type2: "いわ"
+  :evolution_from_name: "カブト"
+- :name: "プテラ"
+  :kind: "かせきポケモン"
+  :no: 142
+  :type1: "ひこう"
+  :type2: "いわ"
+- :name: "カビゴン"
+  :kind: "いねむりポケモン"
+  :no: 143
+  :type1: "ノーマル"
+  :type2: 
+  :evolution_from_name: "ゴンベ"
+- :name: "フリーザー"
+  :kind: "れいとうポケモン"
+  :no: 144
+  :type1: "こおり"
+  :type2: "ひこう"
+- :name: "サンダー"
+  :kind: "でんげきポケモン"
+  :no: 145
+  :type1: "でんき"
+  :type2: "ひこう"
+- :name: "ファイヤー"
+  :kind: "かえんポケモン"
+  :no: 146
+  :type1: "ほのお"
+  :type2: "ひこう"
+- :name: "ミニリュウ"
+  :kind: "ドラゴンポケモン"
+  :no: 147
+  :type1: "ドラゴン"
+  :type2: 
+- :name: "ハクリュー"
+  :kind: "ドラゴンポケモン"
+  :no: 148
+  :type1: "ドラゴン"
+  :type2: 
+  :evolution_from_name: "ミニリュウ"
+- :name: "カイリュー"
+  :kind: "ドラゴンポケモン"
+  :no: 149
+  :type1: "ドラゴン"
+  :type2: "ひこう"
+  :evolution_from_name: "ハクリュー"
+- :name: "ミュウツー"
+  :kind: "いでんしポケモン"
+  :no: 150
+  :type1: "エスパー"
+  :type2: 
+- :name: "ミュウ"
+  :kind: "しんしゅポケモン"
+  :no: 151
+  :type1: "エスパー"
+  :type2: 
+- :name: "チコリータ"
+  :kind: "はっぱポケモン"
+  :no: 152
+  :type1: "くさ"
+  :type2: 
+- :name: "ベイリーフ"
+  :kind: "はっぱポケモン"
+  :no: 153
+  :type1: "くさ"
+  :type2: 
+  :evolution_from_name: "チコリータ"
+- :name: "メガニウム"
+  :kind: "ハーブポケモン"
+  :no: 154
+  :type1: "くさ"
+  :type2: 
+  :evolution_from_name: "ベイリーフ"
+- :name: "ヒノアラシ"
+  :kind: "ひねずみポケモン"
+  :no: 155
+  :type1: "ほのお"
+  :type2: 
+- :name: "マグマラシ"
+  :kind: "かざんポケモン"
+  :no: 156
+  :type1: "ほのお"
+  :type2: 
+  :evolution_from_name: "ヒノアラシ"
+- :name: "バクフーン"
+  :kind: "かざんポケモン"
+  :no: 157
+  :type1: "ほのお"
+  :type2: 
+  :evolution_from_name: "マグマラシ"
+- :name: "ワニノコ"
+  :kind: "おおあごポケモン"
+  :no: 158
+  :type1: "みず"
+  :type2: 
+- :name: "アリゲイツ"
+  :kind: "おおあごポケモン"
+  :no: 159
+  :type1: "みず"
+  :type2: 
+  :evolution_from_name: "ワニノコ"
+- :name: "オーダイル"
+  :kind: "おおあごポケモン"
+  :no: 160
+  :type1: "みず"
+  :type2: 
+  :evolution_from_name: "アリゲイツ"
+- :name: "オタチ"
+  :kind: "みはりポケモン"
+  :no: 161
+  :type1: "ノーマル"
+  :type2: 
+- :name: "オオタチ"
+  :kind: "どうながポケモン"
+  :no: 162
+  :type1: "ノーマル"
+  :type2: 
+  :evolution_from_name: "オタチ"
+- :name: "ホーホー"
+  :kind: "ふくろうポケモン"
+  :no: 163
+  :type1: "ノーマル"
+  :type2: "ひこう"
+- :name: "ヨルノズク"
+  :kind: "ふくろうポケモン"
+  :no: 164
+  :type1: "ノーマル"
+  :type2: "ひこう"
+  :evolution_from_name: "ホーホー"
+- :name: "レディバ"
+  :kind: "いつつぼしポケモン"
+  :no: 165
+  :type1: "むし"
+  :type2: "ひこう"
+- :name: "レディアン"
+  :kind: "いつつぼしポケモン"
+  :no: 166
+  :type1: "むし"
+  :type2: "ひこう"
+  :evolution_from_name: "レディバ"
+- :name: "イトマル"
+  :kind: "いとはきポケモン"
+  :no: 167
+  :type1: "むし"
+  :type2: "どく"
+- :name: "アリアドス"
+  :kind: "あしながポケモン"
+  :no: 168
+  :type1: "むし"
+  :type2: "どく"
+  :evolution_from_name: "イトマル"
+- :name: "クロバット"
+  :kind: "こうもりポケモン"
+  :no: 169
+  :type1: "ひこう"
+  :type2: "どく"
+  :evolution_from_name: "ゴルバット"
+- :name: "チョンチー"
+  :kind: "あんこうポケモン"
+  :no: 170
+  :type1: "みず"
+  :type2: "でんき"
+- :name: "ランターン"
+  :kind: "ライトポケモン"
+  :no: 171
+  :type1: "みず"
+  :type2: "でんき"
+  :evolution_from_name: "チョンチー"
+- :name: "ピチュー"
+  :kind: "こねずみポケモン"
+  :no: 172
+  :type1: "でんき"
+  :type2: 
+- :name: "ピィ"
+  :kind: "ほしがたポケモン"
+  :no: 173
+  :type1: "ノーマル"
+  :type2: 
+- :name: "ププリン"
+  :kind: "ふうせんポケモン"
+  :no: 174
+  :type1: "ノーマル"
+  :type2: 
+- :name: "トゲピー"
+  :kind: "はりたまポケモン"
+  :no: 175
+  :type1: "ノーマル"
+  :type2: 
+- :name: "トゲチック"
+  :kind: "しあわせポケモン"
+  :no: 176
+  :type1: "ノーマル"
+  :type2: 
+  :evolution_from_name: "トゲピー"
+- :name: "ネイティ"
+  :kind: "ことりポケモン"
+  :no: 177
+  :type1: "エスパー"
+  :type2: "ひこう"
+- :name: "ネイティオ"
+  :kind: "せいれいポケモン"
+  :no: 178
+  :type1: "エスパー"
+  :type2: "ひこう"
+  :evolution_from_name: "ネイティ"
+- :name: "メリープ"
+  :kind: "わたげポケモン"
+  :no: 179
+  :type1: "でんき"
+  :type2: 
+- :name: "モココ"
+  :kind: "わたげポケモン"
+  :no: 180
+  :type1: "でんき"
+  :type2: 
+  :evolution_from_name: "メリープ"
+- :name: "デンリュウ"
+  :kind: "ライトポケモン"
+  :no: 181
+  :type1: "でんき"
+  :type2: 
+  :evolution_from_name: "モココ"
+- :name: "キレイハナ"
+  :kind: "フラワーポケモン"
+  :no: 182
+  :type1: "くさ"
+  :type2: 
+  :evolution_from_name: "ラフレシア"
+- :name: "マリル"
+  :kind: "みずねずみポケモン"
+  :no: 183
+  :type1: "みず"
+  :type2: 
+  :evolution_from_name: "ルリリ"
+- :name: "マリルリ"
+  :kind: "みずねずみポケモン"
+  :no: 184
+  :type1: "みず"
+  :type2: 
+  :evolution_from_name: "マリル"
+- :name: "ウソッキー"
+  :kind: "まねポケモン"
+  :no: 185
+  :type1: "いわ"
+  :type2: 
+  :evolution_from_name: "ウソハチ"
+- :name: "ニョロトノ"
+  :kind: "かえるポケモン"
+  :no: 186
+  :type1: "みず"
+  :type2: 
+  :evolution_from_name: "ニョロボン"
+- :name: "ハネッコ"
+  :kind: "わたくさポケモン"
+  :no: 187
+  :type1: "くさ"
+  :type2: "ひこう"
+- :name: "ポポッコ"
+  :kind: "わたくさポケモン"
+  :no: 188
+  :type1: "くさ"
+  :type2: "ひこう"
+  :evolution_from_name: "ハネッコ"
+- :name: "ワタッコ"
+  :kind: "わたくさポケモン"
+  :no: 189
+  :type1: "くさ"
+  :type2: "ひこう"
+  :evolution_from_name: "ポポッコ"
+- :name: "エイパム"
+  :kind: "おながポケモン"
+  :no: 190
+  :type1: "ノーマル"
+  :type2: 
+- :name: "ヒマナッツ"
+  :kind: "たねポケモン"
+  :no: 191
+  :type1: "くさ"
+  :type2: 
+- :name: "キマワリ"
+  :kind: "たいようポケモン"
+  :no: 192
+  :type1: "くさ"
+  :type2: 
+  :evolution_from_name: "ヒマナッツ"
+- :name: "ヤンヤンマ"
+  :kind: "うすばねポケモン"
+  :no: 193
+  :type1: "むし"
+  :type2: "ひこう"
+- :name: "ウパー"
+  :kind: "みずうおポケモン"
+  :no: 194
+  :type1: "みず"
+  :type2: "じめん"
+- :name: "ヌオー"
+  :kind: "みずうおポケモン"
+  :no: 195
+  :type1: "みず"
+  :type2: "じめん"
+  :evolution_from_name: "ウパー"
+- :name: "エーフィ"
+  :kind: "たいようポケモン"
+  :no: 196
+  :type1: "エスパー"
+  :type2: 
+  :evolution_from_name: "ブースター"
+- :name: "ブラッキー"
+  :kind: "げっこうポケモン"
+  :no: 197
+  :type1: "あく"
+  :type2: 
+  :evolution_from_name: "エーフィ"
+- :name: "ヤミカラス"
+  :kind: "くらやみポケモン"
+  :no: 198
+  :type1: "あく"
+  :type2: "ひこう"
+- :name: "ヤドキング"
+  :kind: "おうじゃポケモン"
+  :no: 199
+  :type1: "みず"
+  :type2: "エスパー"
+  :evolution_from_name: "ヤドン"
+- :name: "ムウマ"
+  :kind: "よなきポケモン"
+  :no: 200
+  :type1: "ゴースト"
+  :type2: 
+- :name: "アンノーン"
+  :kind: "シンボルポケモン"
+  :no: 201
+  :type1: "エスパー"
+  :type2: 
+- :name: "ソーナンス"
+  :kind: "がまんポケモン"
+  :no: 202
+  :type1: "エスパー"
+  :type2: 
+  :evolution_from_name: "ソーナノ"
+- :name: "キリンリキ"
+  :kind: "くびながポケモン"
+  :no: 203
+  :type1: "ノーマル"
+  :type2: "エスパー"
+- :name: "クヌギダマ"
+  :kind: "みのむしポケモン"
+  :no: 204
+  :type1: "むし"
+  :type2: 
+- :name: "フォレトス"
+  :kind: "みのむしポケモン"
+  :no: 205
+  :type1: "むし"
+  :type2: "はがね"
+  :evolution_from_name: "クヌギダマ"
+- :name: "ノコッチ"
+  :kind: "つちへびポケモン"
+  :no: 206
+  :type1: "ノーマル"
+  :type2: 
+- :name: "グライガー"
+  :kind: "とびさそりポケモン"
+  :no: 207
+  :type1: "じめん"
+  :type2: "ひこう"
+- :name: "ハガネール"
+  :kind: "てつへびポケモン"
+  :no: 208
+  :type1: "はがね"
+  :type2: "じめん"
+  :evolution_from_name: "イワーク"
+- :name: "ブルー"
+  :kind: "妖精ポケモン"
+  :no: 209
+  :type1: "ノーマル"
+  :type2: 
+- :name: "グランブル"
+  :kind: "妖精ポケモン"
+  :no: 210
+  :type1: "ノーマル"
+  :type2: 
+  :evolution_from_name: "ブルー"
+- :name: "ハリーセン"
+  :kind: "ふうせんポケモン"
+  :no: 211
+  :type1: "みず"
+  :type2: "どく"
+- :name: "ハッサム"
+  :kind: "はさみポケモン"
+  :no: 212
+  :type1: "むし"
+  :type2: "はがね"
+  :evolution_from_name: "ストライク"
+- :name: "ツボツボ"
+  :kind: "はっこうポケモン"
+  :no: 213
+  :type1: "むし"
+  :type2: "いわ"
+- :name: "ヘラクロス"
+  :kind: 1ぽんヅノポケモン
+  :no: 214
+  :type1: "むし"
+  :type2: "かくとう"
+- :name: "ニューラ"
+  :kind: "かぎづめポケモン"
+  :no: 215
+  :type1: "あく"
+  :type2: "こおり"
+- :name: "ヒメグマ"
+  :kind: "こぐまポケモン"
+  :no: 216
+  :type1: "ノーマル"
+  :type2: 
+- :name: "リングマ"
+  :kind: "とうみんポケモン"
+  :no: 217
+  :type1: "ノーマル"
+  :type2: 
+  :evolution_from_name: "ヒメグマ"
+- :name: "マグマッグ"
+  :kind: "ようがんポケモン"
+  :no: 218
+  :type1: "ほのお"
+  :type2: 
+- :name: "マグカルゴ"
+  :kind: "ようがんポケモン"
+  :no: 219
+  :type1: "ほのお"
+  :type2: "いわ"
+  :evolution_from_name: "マグマッグ"
+- :name: "ウリムー"
+  :kind: "いのぶたポケモン"
+  :no: 220
+  :type1: "こおり"
+  :type2: "じめん"
+- :name: "イノムー"
+  :kind: "いのししポケモン"
+  :no: 221
+  :type1: "こおり"
+  :type2: "じめん"
+  :evolution_from_name: "ウリムー"
+- :name: "サニーゴ"
+  :kind: "さんごポケモン"
+  :no: 222
+  :type1: "みず"
+  :type2: "いわ"
+- :name: "テッポウオ"
+  :kind: "ふんしゃポケモン"
+  :no: 223
+  :type1: "みず"
+  :type2: 
+- :name: "オクタン"
+  :kind: "ふんしゃポケモン"
+  :no: 224
+  :type1: "みず"
+  :type2: 
+  :evolution_from_name: "テッポウオ"
+- :name: "デリバード"
+  :kind: "はこびやポケモン"
+  :no: 225
+  :type1: "こおり"
+  :type2: "ひこう"
+- :name: "マンタイン"
+  :kind: "カイトポケモン"
+  :no: 226
+  :type1: "みず"
+  :type2: "ひこう"
+  :evolution_from_name: "タマンタ"
+- :name: "エアームド"
+  :kind: "よろいどりポケモン"
+  :no: 227
+  :type1: "はがね"
+  :type2: "ひこう"
+- :name: "デルビル"
+  :kind: "ダークポケモン"
+  :no: 228
+  :type1: "あく"
+  :type2: "ほのお"
+- :name: "ヘルガー"
+  :kind: "ダークポケモン"
+  :no: 229
+  :type1: "あく"
+  :type2: "ほのお"
+  :evolution_from_name: "デルビル"
+- :name: "キングドラ"
+  :kind: "ドラゴンポケモン"
+  :no: 230
+  :type1: "みず"
+  :type2: "ドラゴン"
+  :evolution_from_name: "シードラ"
+- :name: "ゴマゾウ"
+  :kind: "ながはなポケモン"
+  :no: 231
+  :type1: "じめん"
+  :type2: 
+- :name: "ドンファン"
+  :kind: "よろいポケモン"
+  :no: 232
+  :type1: "じめん"
+  :type2: 
+  :evolution_from_name: "ゴマゾウ"
+- :name: "ポリゴン2"
+  :kind: "バーチャルポケモン"
+  :no: 233
+  :type1: "ノーマル"
+  :type2: 
+  :evolution_from_name: "ポリゴン"
+- :name: "オドシシ"
+  :kind: "おおツノポケモン"
+  :no: 234
+  :type1: "ノーマル"
+  :type2: 
+- :name: "ドーブル"
+  :kind: "えかきポケモン"
+  :no: 235
+  :type1: "ノーマル"
+  :type2: 
+- :name: "バルキー"
+  :kind: "けんかポケモン"
+  :no: 236
+  :type1: "かくとう"
+  :type2: 
+- :name: "カポエラー"
+  :kind: "さかだちポケモン"
+  :no: 237
+  :type1: "かくとう"
+  :type2: 
+  :evolution_from_name: "エビワラー"
+- :name: "ムチュール"
+  :kind: "くちづけポケモン"
+  :no: 238
+  :type1: "こおり"
+  :type2: "エスパー"
+- :name: "エレキッド"
+  :kind: "でんきポケモン"
+  :no: 239
+  :type1: "でんき"
+  :type2: 
+- :name: "ブビィ"
+  :kind: "ひだねポケモン"
+  :no: 240
+  :type1: "ほのお"
+  :type2: 
+- :name: "ミルタンク"
+  :kind: "ちちうしポケモン"
+  :no: 241
+  :type1: "ノーマル"
+  :type2: 
+- :name: "ハピナス"
+  :kind: "しあわせポケモン"
+  :no: 242
+  :type1: "ノーマル"
+  :type2: 
+  :evolution_from_name: "ラッキー"
+- :name: "ライコウ"
+  :kind: "いかずちポケモン"
+  :no: 243
+  :type1: "でんき"
+  :type2: 
+- :name: "エンテイ"
+  :kind: "かざんポケモン"
+  :no: 244
+  :type1: "ほのお"
+  :type2: 
+- :name: "スイクン"
+  :kind: "オーロラポケモン"
+  :no: 245
+  :type1: "みず"
+  :type2: 
+- :name: "ヨーギラス"
+  :kind: "いわはだポケモン"
+  :no: 246
+  :type1: "いわ"
+  :type2: "じめん"
+- :name: "サナギラス"
+  :kind: "だんがんポケモン"
+  :no: 247
+  :type1: "いわ"
+  :type2: "じめん"
+  :evolution_from_name: "ヨーギラス"
+- :name: "バンギラス"
+  :kind: "よろいポケモン"
+  :no: 248
+  :type1: "いわ"
+  :type2: "あく"
+  :evolution_from_name: "サナギラス"
+- :name: "ルギア"
+  :kind: "せんすいポケモン"
+  :no: 249
+  :type1: "エスパー"
+  :type2: "ひこう"
+- :name: "ホウオウ"
+  :kind: "にじいろポケモン"
+  :no: 250
+  :type1: "ほのお"
+  :type2: "ひこう"
+- :name: "セレビィ"
+  :kind: "ときわたりポケモン"
+  :no: 251
+  :type1: "エスパー"
+  :type2: "くさ"
+- :name: "キモリ"
+  :kind: "もりトカゲポケモン"
+  :no: 252
+  :type1: "くさ"
+  :type2: 
+- :name: "ジュプトル"
+  :kind: "もりトカゲポケモン"
+  :no: 253
+  :type1: "くさ"
+  :type2: 
+  :evolution_from_name: "キモリ"
+- :name: "ジュカイン"
+  :kind: "みつりんポケモン"
+  :no: 254
+  :type1: "くさ"
+  :type2: 
+  :evolution_from_name: "ジュプトル"
+- :name: "アチャモ"
+  :kind: "ひよこポケモン"
+  :no: 255
+  :type1: "ほのお"
+  :type2: 
+- :name: "ワカシャモ"
+  :kind: "わかどりポケモン"
+  :no: 256
+  :type1: "ほのお"
+  :type2: "かくとう"
+  :evolution_from_name: "アチャモ"
+- :name: "バシャーモ"
+  :kind: "もうかポケモン"
+  :no: 257
+  :type1: "ほのお"
+  :type2: "かくとう"
+  :evolution_from_name: "ワカシャモ"
+- :name: "ミズゴロウ"
+  :kind: "ぬまうおポケモン"
+  :no: 258
+  :type1: "みず"
+  :type2: 
+- :name: "ヌマクロー"
+  :kind: "ぬまうおポケモン"
+  :no: 259
+  :type1: "みず"
+  :type2: "じめん"
+  :evolution_from_name: "ミズゴロウ"
+- :name: "ラグラージ"
+  :kind: "ぬまうおポケモン"
+  :no: 260
+  :type1: "みず"
+  :type2: "じめん"
+  :evolution_from_name: "ヌマクロー"
+- :name: "ポチエナ"
+  :kind: "かみつきポケモン"
+  :no: 261
+  :type1: "あく"
+  :type2: 
+- :name: "グラエナ"
+  :kind: "かみつきポケモン"
+  :no: 262
+  :type1: "あく"
+  :type2: 
+  :evolution_from_name: "ポチエナ"
+- :name: "ジグザグマ"
+  :kind: "まめだぬきポケモン"
+  :no: 263
+  :type1: "ノーマル"
+  :type2: 
+- :name: "マッスグマ"
+  :kind: "とっしんポケモン"
+  :no: 264
+  :type1: "ノーマル"
+  :type2: 
+  :evolution_from_name: "ジグザグマ"
+- :name: "ケムッソ"
+  :kind: "いもむしポケモン"
+  :no: 265
+  :type1: "むし"
+  :type2: 
+- :name: "カラサリス"
+  :kind: "さなぎポケモン"
+  :no: 266
+  :type1: "むし"
+  :type2: 
+  :evolution_from_name: "ケムッソ"
+- :name: "アゲハント"
+  :kind: "ちょうちょポケモン"
+  :no: 267
+  :type1: "むし"
+  :type2: "ひこう"
+  :evolution_from_name: "カラサリス"
+- :name: "マユルド"
+  :kind: "さなぎポケモン"
+  :no: 268
+  :type1: "むし"
+  :type2: 
+  :evolution_from_name: "ケムッソ"
+- :name: "ドクケイル"
+  :kind: "どくがポケモン"
+  :no: 269
+  :type1: "むし"
+  :type2: "どく"
+  :evolution_from_name: "マユルド"
+- :name: "ハスボー"
+  :kind: "うきくさポケモン"
+  :no: 270
+  :type1: "みず"
+  :type2: "くさ"
+- :name: "ハスブレロ"
+  :kind: "ようきポケモン"
+  :no: 271
+  :type1: "みず"
+  :type2: "くさ"
+  :evolution_from_name: "ハスボー"
+- :name: "ルンパッパ"
+  :kind: "のうてんきポケモン"
+  :no: 272
+  :type1: "みず"
+  :type2: "くさ"
+  :evolution_from_name: "ハスブレロ"
+- :name: "タネボー"
+  :kind: "どんぐりポケモン"
+  :no: 273
+  :type1: "くさ"
+  :type2: 
+- :name: "コノハナ"
+  :kind: "いじわるポケモン"
+  :no: 274
+  :type1: "くさ"
+  :type2: "あく"
+  :evolution_from_name: "タネボー"
+- :name: "ダーテング"
+  :kind: "よこしまポケモン"
+  :no: 275
+  :type1: "くさ"
+  :type2: "あく"
+  :evolution_from_name: "コノハナ"
+- :name: "スバメ"
+  :kind: "こツバメポケモン"
+  :no: 276
+  :type1: "ノーマル"
+  :type2: "ひこう"
+- :name: "オオスバメ"
+  :kind: "ツバメポケモン"
+  :no: 276
+  :type1: "ノーマル"
+  :type2: "ひこう"
+  :evolution_from_name: "スバメ"
+- :name: "キャモメ"
+  :kind: "うみねこポケモン"
+  :no: 278
+  :type1: "みず"
+  :type2: "ひこう"
+- :name: "ペリッパー"
+  :kind: "みずどりポケモン"
+  :no: 279
+  :type1: "みず"
+  :type2: "ひこう"
+  :evolution_from_name: "キャモメ"
+- :name: "ラルトス"
+  :kind: "きもちポケモン"
+  :no: 280
+  :type1: "エスパー"
+  :type2: 
+- :name: "キルリア"
+  :kind: "かんじょうポケモン"
+  :no: 281
+  :type1: "エスパー"
+  :type2: 
+  :evolution_from_name: "ラルトス"
+- :name: "サーナイト"
+  :kind: "ほうようポケモン"
+  :no: 282
+  :type1: "エスパー"
+  :type2: 
+  :evolution_from_name: "キルリア"
+- :name: "アメタマ"
+  :kind: "あめんぼポケモン"
+  :no: 283
+  :type1: "みず"
+  :type2: "むし"
+- :name: "アメモース"
+  :kind: "めだまポケモン"
+  :no: 284
+  :type1: "むし"
+  :type2: "ひこう"
+  :evolution_from_name: "アメタマ"
+- :name: "キノココ"
+  :kind: "きのこポケモン"
+  :no: 285
+  :type1: "くさ"
+  :type2: 
+- :name: "キノガッサ"
+  :kind: "きのこポケモン"
+  :no: 286
+  :type1: "くさ"
+  :type2: "かくとう"
+  :evolution_from_name: "キノココ"
+- :name: "ナマケロ"
+  :kind: "なまけものポケモン"
+  :no: 287
+  :type1: "ノーマル"
+  :type2: 
+- :name: "ヤルキモノ"
+  :kind: "あばれザルポケモン"
+  :no: 288
+  :type1: "ノーマル"
+  :type2: 
+  :evolution_from_name: "ナマケロ"
+- :name: "ケッキング"
+  :kind: "ものぐさポケモン"
+  :no: 289
+  :type1: "ノーマル"
+  :type2: 
+  :evolution_from_name: "ヤルキモノ"
+- :name: "ツチニン"
+  :kind: "したづみポケモン"
+  :no: 290
+  :type1: "むし"
+  :type2: "じめん"
+- :name: "テッカニン"
+  :kind: "しのびポケモン"
+  :no: 291
+  :type1: "むし"
+  :type2: "ひこう"
+  :evolution_from_name: "ツチニン"
+- :name: "ヌケニン"
+  :kind: "ぬけがらポケモン"
+  :no: 292
+  :type1: "むし"
+  :type2: "ゴースト"
+- :name: "ゴニョニョ"
+  :kind: "ささやきポケモン"
+  :no: 293
+  :type1: "ノーマル"
+  :type2: 
+- :name: "ドゴーム"
+  :kind: "おおごえポケモン"
+  :no: 294
+  :type1: "ノーマル"
+  :type2: 
+  :evolution_from_name: "ゴニョニョ"
+- :name: "バクオング"
+  :kind: "そうおんポケモン"
+  :no: 295
+  :type1: "ノーマル"
+  :type2: 
+  :evolution_from_name: "ドゴーム"
+- :name: "マクノシタ"
+  :kind: "こんじょうポケモン"
+  :no: 296
+  :type1: "かくとう"
+  :type2: 
+- :name: "ハリテヤマ"
+  :kind: "つっぱりポケモン"
+  :no: 297
+  :type1: "かくとう"
+  :type2: 
+  :evolution_from_name: "マクノシタ"
+- :name: "ルリリ"
+  :kind: "みずたまポケモン"
+  :no: 298
+  :type1: "ノーマル"
+  :type2: 
+- :name: "ノズパス"
+  :kind: "コンパスポケモン"
+  :no: 299
+  :type1: "いわ"
+  :type2: 
+- :name: "エネコ"
+  :kind: "こねこポケモン"
+  :no: 300
+  :type1: "ノーマル"
+  :type2: 
+- :name: "エネコロロ"
+  :kind: "おすましポケモン"
+  :no: 301
+  :type1: "ノーマル"
+  :type2: 
+  :evolution_from_name: "エネコ"
+- :name: "ヤミラミ"
+  :kind: "くらやみポケモン"
+  :no: 302
+  :type1: "あく"
+  :type2: "ゴースト"
+- :name: "クチート"
+  :kind: "あざむきポケモン"
+  :no: 303
+  :type1: "はがね"
+  :type2: 
+- :name: "ココドラ"
+  :kind: "てつヨロイポケモン"
+  :no: 304
+  :type1: "はがね"
+  :type2: "いわ"
+- :name: "コドラ"
+  :kind: "てつヨロイポケモン"
+  :no: 305
+  :type1: "はがね"
+  :type2: "いわ"
+  :evolution_from_name: "ココドラ"
+- :name: "ボスゴドラ"
+  :kind: "てつヨロイポケモン"
+  :no: 306
+  :type1: "はがね"
+  :type2: "いわ"
+  :evolution_from_name: "コドラ"
+- :name: "アサナン"
+  :kind: "めいそうポケモン"
+  :no: 307
+  :type1: "かくとう"
+  :type2: "エスパー"
+- :name: "チャーレム"
+  :kind: "めいそうポケモン"
+  :no: 308
+  :type1: "かくとう"
+  :type2: "エスパー"
+  :evolution_from_name: "アサナン"
+- :name: "ラクライ"
+  :kind: "いなずまポケモン"
+  :no: 309
+  :type1: "でんき"
+  :type2: 
+- :name: "ライボルト"
+  :kind: "ほうでんポケモン"
+  :no: 310
+  :type1: "でんき"
+  :type2: 
+  :evolution_from_name: "ラクライ"
+- :name: "プラスル"
+  :kind: "おうえんポケモン"
+  :no: 311
+  :type1: "でんき"
+  :type2: 
+- :name: "マイナン"
+  :kind: "おうえんポケモン"
+  :no: 312
+  :type1: "でんき"
+  :type2: 
+- :name: "バルビート"
+  :kind: "ほたるポケモン"
+  :no: 313
+  :type1: "むし"
+  :type2: 
+- :name: "イルミーゼ"
+  :kind: "ほたるポケモン"
+  :no: 314
+  :type1: "むし"
+  :type2: 
+- :name: "ロゼリア"
+  :kind: "いばらポケモン"
+  :no: 315
+  :type1: "くさ"
+  :type2: "どく"
+  :evolution_from_name: "スボミー"
+- :name: "ゴクリン"
+  :kind: "いぶくろポケモン"
+  :no: 316
+  :type1: "どく"
+  :type2: 
+- :name: "マルノーム"
+  :kind: "どくぶくろポケモン"
+  :no: 317
+  :type1: "どく"
+  :type2: 
+  :evolution_from_name: "ゴクリン"
+- :name: "キバニア"
+  :kind: "どうもうポケモン"
+  :no: 318
+  :type1: "みず"
+  :type2: "あく"
+- :name: "サメハダー"
+  :kind: "きょうぼうポケモン"
+  :no: 319
+  :type1: "みず"
+  :type2: "あく"
+  :evolution_from_name: "キバニア"
+- :name: "ホエルコ"
+  :kind: "たまくじらポケモン"
+  :no: 320
+  :type1: "みず"
+  :type2: 
+- :name: "ホエルオー"
+  :kind: "うきくじらポケモン"
+  :no: 321
+  :type1: "みず"
+  :type2: 
+  :evolution_from_name: "ホエルコ"
+- :name: "ドンメル"
+  :kind: "どんかんポケモン"
+  :no: 322
+  :type1: "ほのお"
+  :type2: "じめん"
+- :name: "バクーダ"
+  :kind: "ふんかポケモン"
+  :no: 323
+  :type1: "ほのお"
+  :type2: "じめん"
+  :evolution_from_name: "ドンメル"
+- :name: "コータス"
+  :kind: "せきたんポケモン"
+  :no: 324
+  :type1: "ほのお"
+  :type2: 
+- :name: "バネブー"
+  :kind: "とびはねポケモン"
+  :no: 325
+  :type1: "エスパー"
+  :type2: 
+- :name: "ブーピッグ"
+  :kind: "あやつりポケモン"
+  :no: 326
+  :type1: "エスパー"
+  :type2: 
+  :evolution_from_name: "バネブー"
+- :name: "パッチール"
+  :kind: "ぶちパンダポケモン"
+  :no: 327
+  :type1: "ノーマル"
+  :type2: 
+- :name: "ナックラー"
+  :kind: "ありじごくポケモン"
+  :no: 328
+  :type1: "じめん"
+  :type2: 
+- :name: "ビブラーバ"
+  :kind: "しんどうポケモン"
+  :no: 329
+  :type1: "じめん"
+  :type2: "ドラゴン"
+  :evolution_from_name: "ナックラー"
+- :name: "フライゴン"
+  :kind: "せいれいポケモン"
+  :no: 330
+  :type1: "じめん"
+  :type2: "ドラゴン"
+  :evolution_from_name: "ビブラーバ"
+- :name: "サボネア"
+  :kind: "サボテンポケモン"
+  :no: 331
+  :type1: "くさ"
+  :type2: 
+- :name: "ノクタス"
+  :kind: "カカシぐさポケモン"
+  :no: 332
+  :type1: "くさ"
+  :type2: "あく"
+  :evolution_from_name: "サボネア"
+- :name: "チルット"
+  :kind: "わたりどりポケモン"
+  :no: 333
+  :type1: "ノーマル"
+  :type2: "ひこう"
+- :name: "チルタリス"
+  :kind: "ハミングポケモン"
+  :no: 334
+  :type1: "ドラゴン"
+  :type2: "ひこう"
+  :evolution_from_name: "チルット"
+- :name: "ザングース"
+  :kind: "ネコイタチポケモン"
+  :no: 335
+  :type1: "ノーマル"
+  :type2: 
+- :name: "ハブネーク"
+  :kind: "キバへびポケモン"
+  :no: 336
+  :type1: "どく"
+  :type2: 
+- :name: "ルナトーン"
+  :kind: "いんせきポケモン"
+  :no: 337
+  :type1: "いわ"
+  :type2: "エスパー"
+- :name: "ソルロック"
+  :kind: "いんせきポケモン"
+  :no: 338
+  :type1: "いわ"
+  :type2: "エスパー"
+- :name: "ドジョッチ"
+  :kind: "ひげうおポケモン"
+  :no: 339
+  :type1: "みず"
+  :type2: "じめん"
+- :name: "ナマズン"
+  :kind: "ひげうおポケモン"
+  :no: 340
+  :type1: "みず"
+  :type2: "じめん"
+  :evolution_from_name: "ドジョッチ"
+- :name: "ヘイガニ"
+  :kind: "ごろつきポケモン"
+  :no: 341
+  :type1: "みず"
+  :type2: 
+- :name: "シザリガー"
+  :kind: "ならずものポケモン"
+  :no: 342
+  :type1: "みず"
+  :type2: "あく"
+  :evolution_from_name: "ヘイガニ"
+- :name: "ヤジロン"
+  :kind: "どぐうポケモン"
+  :no: 343
+  :type1: "じめん"
+  :type2: "エスパー"
+- :name: "ネンドール"
+  :kind: "どぐうポケモン"
+  :no: 344
+  :type1: "じめん"
+  :type2: "エスパー"
+  :evolution_from_name: "ヤジロン"
+- :name: "リリーラ"
+  :kind: "ウミユリポケモン"
+  :no: 345
+  :type1: "くさ"
+  :type2: "いわ"
+- :name: "ユレイドル"
+  :kind: "いわつぼポケモン"
+  :no: 346
+  :type1: "くさ"
+  :type2: "いわ"
+  :evolution_from_name: "リリーラ"
+- :name: "アノプス"
+  :kind: "むかしエビポケモン"
+  :no: 347
+  :type1: "むし"
+  :type2: "いわ"
+- :name: "アーマルド"
+  :kind: "かっちゅうポケモン"
+  :no: 348
+  :type1: "むし"
+  :type2: "いわ"
+  :evolution_from_name: "アノプス"
+- :name: "ヒンバス"
+  :kind: "さかなポケモン"
+  :no: 349
+  :type1: "みず"
+  :type2: 
+- :name: "ミロカロス"
+  :kind: "いつくしみポケモン"
+  :no: 350
+  :type1: "みず"
+  :type2: 
+  :evolution_from_name: "ヒンバス"
+- :name: "ポワルン"
+  :kind: "てんきポケモン"
+  :no: 351
+  :type1: "ノーマル"
+  :type2: 
+- :name: "カクレオン"
+  :kind: "いろへんげポケモン"
+  :no: 352
+  :type1: "ノーマル"
+  :type2: 
+- :name: "カゲボウズ"
+  :kind: "にんぎょうポケモン"
+  :no: 353
+  :type1: "ゴースト"
+  :type2: 
+- :name: "ジュペッタ"
+  :kind: "ぬいぐるみポケモン"
+  :no: 354
+  :type1: "ゴースト"
+  :type2: 
+  :evolution_from_name: "カゲボウズ"
+- :name: "ヨマワル"
+  :kind: "おむかえポケモン"
+  :no: 355
+  :type1: "ゴースト"
+  :type2: 
+- :name: "サマヨール"
+  :kind: "てまねきポケモン"
+  :no: 356
+  :type1: "ゴースト"
+  :type2: 
+  :evolution_from_name: "ヨマワル"
+- :name: "トロピウス"
+  :kind: "フルーツポケモン"
+  :no: 357
+  :type1: "くさ"
+  :type2: "ひこう"
+- :name: "チリーン"
+  :kind: "ふうりんポケモン"
+  :no: 358
+  :type1: "エスパー"
+  :type2: 
+  :evolution_from_name: "リーシャン"
+- :name: "アブソル"
+  :kind: "わざわいポケモン"
+  :no: 359
+  :type1: "あく"
+  :type2: 
+- :name: "ソーナノ"
+  :kind: "ほがらかポケモン"
+  :no: 360
+  :type1: "エスパー"
+  :type2: 
+- :name: "ユキワラシ"
+  :kind: "ゆきかさポケモン"
+  :no: 361
+  :type1: "こおり"
+  :type2: 
+- :name: "オニゴーリ"
+  :kind: "がんめんポケモン"
+  :no: 362
+  :type1: "こおり"
+  :type2: 
+  :evolution_from_name: "ユキワラシ"
+- :name: "タマザラシ"
+  :kind: "てたたきポケモン"
+  :no: 363
+  :type1: "こおり"
+  :type2: "みず"
+- :name: "トドグラー"
+  :kind: "たままわしポケモン"
+  :no: 364
+  :type1: "こおり"
+  :type2: "みず"
+  :evolution_from_name: "タマザラシ"
+- :name: "トドゼルガ"
+  :kind: "こおりわりポケモン"
+  :no: 365
+  :type1: "こおり"
+  :type2: "みず"
+  :evolution_from_name: "トドクラー"
+- :name: "パールル"
+  :kind: 2まいがいポケモン
+  :no: 366
+  :type1: "みず"
+  :type2: 
+- :name: "ハンテール"
+  :kind: "しんかいポケモン"
+  :no: 367
+  :type1: "みず"
+  :type2: 
+  :evolution_from_name: "パールル"
+- :name: "サクラビス"
+  :kind: "なんかいポケモン"
+  :no: 368
+  :type1: "みず"
+  :type2: 
+  :evolution_from_name: "ハンテール"
+- :name: "ジーランス"
+  :kind: "ちょうじゅポケモン"
+  :no: 369
+  :type1: "みず"
+  :type2: "いわ"
+- :name: "ラブカス"
+  :kind: "ランデブーポケモン"
+  :no: 370
+  :type1: "みず"
+  :type2: 
+- :name: "タツベイ"
+  :kind: "いしあたまポケモン"
+  :no: 371
+  :type1: "ドラゴン"
+  :type2: 
+- :name: "コモルー"
+  :kind: "にんたいポケモン"
+  :no: 372
+  :type1: "ドラゴン"
+  :type2: 
+  :evolution_from_name: "タツベイ"
+- :name: "ボーマンダ"
+  :kind: "ドラゴンポケモン"
+  :no: 373
+  :type1: "ドラゴン"
+  :type2: "ひこう"
+  :evolution_from_name: "コモルー"
+- :name: "ダンバル"
+  :kind: "てっきゅうポケモン"
+  :no: 374
+  :type1: "はがね"
+  :type2: "エスパー"
+- :name: "メタング"
+  :kind: "てつツメポケモン"
+  :no: 375
+  :type1: "はがね"
+  :type2: "エスパー"
+  :evolution_from_name: "ダンバル"
+- :name: "メタグロス"
+  :kind: "てつあしポケモン"
+  :no: 376
+  :type1: "はがね"
+  :type2: "エスパー"
+  :evolution_from_name: "メタング"
+- :name: "レジロック"
+  :kind: "いわやまポケモン"
+  :no: 377
+  :type1: "いわ"
+  :type2: 
+- :name: "レジアイス"
+  :kind: "ひょうざんポケモン"
+  :no: 378
+  :type1: "こおり"
+  :type2: 
+- :name: "レジスチル"
+  :kind: "くろがねポケモン"
+  :no: 379
+  :type1: "はがね"
+  :type2: 
+- :name: "ラティアス"
+  :kind: "むげんポケモン"
+  :no: 380
+  :type1: "ドラゴン"
+  :type2: "エスパー"
+- :name: "ラティオス"
+  :kind: "むげんポケモン"
+  :no: 381
+  :type1: "ドラゴン"
+  :type2: "エスパー"
+- :name: "カイオーガ"
+  :kind: "かいていポケモン"
+  :no: 382
+  :type1: "みず"
+  :type2: 
+- :name: "グラードン"
+  :kind: "たいりくポケモン"
+  :no: 383
+  :type1: "じめん"
+  :type2: 
+- :name: "レックウザ"
+  :kind: "てんくうポケモン"
+  :no: 384
+  :type1: "ドラゴン"
+  :type2: "ひこう"
+- :name: "ジラーチ"
+  :kind: "ねがいごとポケモン"
+  :no: 385
+  :type1: "はがね"
+  :type2: "エスパー"
+- :name: "デオキシス"
+  :kind: DNAポケモン
+  :no: 386
+  :type1: "エスパー"
+  :type2: 
+- :name: "ナエトル"
+  :kind: "わかばポケモン"
+  :no: 387
+  :type1: "くさ"
+  :type2: 
+- :name: "ハヤシガメ"
+  :kind: "こだちポケモン"
+  :no: 388
+  :type1: "くさ"
+  :type2: 
+  :evolution_from_name: "ナエトル"
+- :name: "ドダイトス"
+  :kind: "たいりくポケモン"
+  :no: 389
+  :type1: "くさ"
+  :type2: "じめん"
+  :evolution_from_name: "ハヤシガメ"
+- :name: "ヒコザル"
+  :kind: "こざるポケモン"
+  :no: 390
+  :type1: "ほのお"
+  :type2: 
+- :name: "モウカザル"
+  :kind: "やんちゃポケモン"
+  :no: 391
+  :type1: "ほのお"
+  :type2: "かくとう"
+  :evolution_from_name: "ヒコザル"
+- :name: "ゴウカザル"
+  :kind: "こざるポケモン"
+  :no: 392
+  :type1: "ほのお"
+  :type2: "かくとう"
+  :evolution_from_name: "モウカザル"
+- :name: "ポッチャマ"
+  :kind: "ペンギンポケモン"
+  :no: 393
+  :type1: "みず"
+  :type2: 
+- :name: "ポッタイシ"
+  :kind: "ペンギンポケモン"
+  :no: 394
+  :type1: "みず"
+  :type2: 
+  :evolution_from_name: "ポッチャマ"
+- :name: "エンペルト"
+  :kind: "ペンギンポケモン"
+  :no: 395
+  :type1: "みず"
+  :type2: "はがね"
+  :evolution_from_name: "ポッタイシ"
+- :name: "ムックル"
+  :kind: "むくどりポケモン"
+  :no: 396
+  :type1: "ノーマル"
+  :type2: "ひこう"
+- :name: "ムクバード"
+  :kind: "むくどりポケモン"
+  :no: 397
+  :type1: "ノーマル"
+  :type2: "ひこう"
+  :evolution_from_name: "ムックル"
+- :name: "ムクホーク"
+  :kind: "もうきんポケモン"
+  :no: 398
+  :type1: "ノーマル"
+  :type2: "ひこう"
+  :evolution_from_name: "ムクバード"
+- :name: "ビッパ"
+  :kind: "まるねずみポケモン"
+  :no: 399
+  :type1: "ノーマル"
+  :type2: 
+- :name: "ビーダル"
+  :kind: "ビーバーポケモン"
+  :no: 400
+  :type1: "ノーマル"
+  :type2: "みず"
+  :evolution_from_name: "ビッパ"
+- :name: "コロボーシ"
+  :kind: "こおろぎポケモン"
+  :no: 401
+  :type1: "むし"
+  :type2: 
+- :name: "コロトック"
+  :kind: "こおろぎポケモン"
+  :no: 402
+  :type1: "むし"
+  :type2: 
+  :evolution_from_name: "コロボーシ"
+- :name: "コリンク"
+  :kind: "せんこうポケモン"
+  :no: 403
+  :type1: "でんき"
+  :type2: 
+- :name: "ルクシオ"
+  :kind: "せんこうポケモン"
+  :no: 404
+  :type1: "でんき"
+  :type2: 
+  :evolution_from_name: "コリンク"
+- :name: "レントラー"
+  :kind: "がんこうポケモン"
+  :no: 405
+  :type1: "でんき"
+  :type2: 
+  :evolution_from_name: "ルクシオ"
+- :name: "スボミー"
+  :kind: "つぼみポケモン"
+  :no: 406
+  :type1: "くさ"
+  :type2: "どく"
+- :name: "ロズレイド"
+  :kind: "ブーケポケモン"
+  :no: 407
+  :type1: "くさ"
+  :type2: "どく"
+  :evolution_from_name: "ロゼリア"
+- :name: "ズガイドス"
+  :kind: "ずつきポケモン"
+  :no: 408
+  :type1: "いわ"
+  :type2: 
+- :name: "ラムパルド"
+  :kind: "ずつきポケモン"
+  :no: 409
+  :type1: "いわ"
+  :type2: 
+  :evolution_from_name: "ズガイドス"
+- :name: "タテトプス"
+  :kind: "シールドポケモン"
+  :no: 410
+  :type1: "いわ"
+  :type2: "はがね"
+- :name: "トリデプス"
+  :kind: "シールドポケモン"
+  :no: 411
+  :type1: "いわ"
+  :type2: "はがね"
+  :evolution_from_name: "タテトプス"
+- :name: "ミノムッチ"
+  :kind: "みのむしポケモン"
+  :no: 412
+  :type1: "むし"
+  :type2: 
+- :name: "ミノマダム"
+  :kind: "みのむしポケモン"
+  :no: 413
+  :type1: "むし"
+  :type2: "くさ"
+  :evolution_from_name: "ミノムッチ"
+- :name: "ガーメイル"
+  :kind: "ミノガポケモン"
+  :no: 414
+  :type1: "むし"
+  :type2: "ひこう"
+  :evolution_from_name: "ミノマダム"
+- :name: "ミツハニー"
+  :kind: "はちのこポケモン"
+  :no: 415
+  :type1: "むし"
+  :type2: "ひこう"
+- :name: "ビークイン"
+  :kind: "はちのすポケモン"
+  :no: 416
+  :type1: "むし"
+  :type2: "ひこう"
+  :evolution_from_name: "ミツハニー"
+- :name: "パチリス"
+  :kind: "でんきりすポケモン"
+  :no: 417
+  :type1: "でんき"
+  :type2: 
+- :name: "ブイゼル"
+  :kind: "うみイタチポケモン"
+  :no: 418
+  :type1: "みず"
+  :type2: 
+- :name: "フローゼル"
+  :kind: "うみイタチポケモン"
+  :no: 419
+  :type1: "みず"
+  :type2: 
+  :evolution_from_name: "ブイゼル"
+- :name: "チェリンボ"
+  :kind: "さくらんぼポケモン"
+  :no: 420
+  :type1: "くさ"
+  :type2: 
+- :name: "チェリム"
+  :kind: "サクラポケモン"
+  :no: 421
+  :type1: "くさ"
+  :type2: 
+  :evolution_from_name: "チェリンボ"
+- :name: "カラナクシ"
+  :kind: "ウミウシポケモン"
+  :no: 422
+  :type1: "みず"
+  :type2: 
+- :name: "トリトドン"
+  :kind: "ウミウシポケモン"
+  :no: 423
+  :type1: "みず"
+  :type2: "じめん"
+  :evolution_from_name: "カラナクシ"
+- :name: "エテボース"
+  :kind: "おながポケモン"
+  :no: 424
+  :type1: "ノーマル"
+  :type2: 
+  :evolution_from_name: "エイパム"
+- :name: "フワンテ"
+  :kind: "ふうせんポケモン"
+  :no: 425
+  :type1: "ゴースト"
+  :type2: "ひこう"
+- :name: "フワライド"
+  :kind: "ききゅうポケモン"
+  :no: 426
+  :type1: "ゴースト"
+  :type2: "ひこう"
+  :evolution_from_name: "フワンテ"
+- :name: "ミミロル"
+  :kind: "うさぎポケモン"
+  :no: 427
+  :type1: "ノーマル"
+  :type2: 
+- :name: "ミミロップ"
+  :kind: "うさぎポケモン"
+  :no: 428
+  :type1: "ノーマル"
+  :type2: 
+  :evolution_from_name: "ミミロル"
+- :name: "ムウマージ"
+  :kind: "マジカルポケモン"
+  :no: 429
+  :type1: "ゴースト"
+  :type2: 
+  :evolution_from_name: "ムウマ"
+- :name: "ドンカラス"
+  :kind: "おおボスポケモン"
+  :no: 430
+  :type1: "あく"
+  :type2: "ひこう"
+  :evolution_from_name: "ヤミカラス"
+- :name: "ニャルマー"
+  :kind: "ねこかぶりポケモン"
+  :no: 431
+  :type1: "ノーマル"
+  :type2: 
+- :name: "ブニャット"
+  :kind: "とらねこポケモン"
+  :no: 432
+  :type1: "ノーマル"
+  :type2: 
+  :evolution_from_name: "ニャルマー"
+- :name: "リーシャン"
+  :kind: "すずポケモン"
+  :no: 433
+  :type1: "エスパー"
+  :type2: 
+- :name: "スカンプー"
+  :kind: "スカンクポケモン"
+  :no: 434
+  :type1: "どく"
+  :type2: "あく"
+- :name: "スカタンク"
+  :kind: "スカンクポケモン"
+  :no: 435
+  :type1: "どく"
+  :type2: "あく"
+  :evolution_from_name: "スカンプー"
+- :name: "ドーミラー"
+  :kind: "せいどうポケモン"
+  :no: 436
+  :type1: "はがね"
+  :type2: "エスパー"
+- :name: "ドータクン"
+  :kind: "どうたくポケモン"
+  :no: 437
+  :type1: "はがね"
+  :type2: "エスパー"
+  :evolution_from_name: "ドーミラー"
+- :name: "ウソハチ"
+  :kind: "ぼんさいポケモン"
+  :no: 438
+  :type1: "いわ"
+  :type2: 
+- :name: "マネネ"
+  :kind: "マイムポケモン"
+  :no: 439
+  :type1: "エスパー"
+  :type2: 
+- :name: "ピンプク"
+  :kind: "ままごとポケモン"
+  :no: 440
+  :type1: "ノーマル"
+  :type2: 
+- :name: "ペラップ"
+  :kind: "おんぷポケモン"
+  :no: 441
+  :type1: "ひこう"
+  :type2: 
+- :name: "ミカルゲ"
+  :kind: "ふういんポケモン"
+  :no: 442
+  :type1: "ゴースト"
+  :type2: "あく"
+- :name: "フカマル"
+  :kind: "りくザメポケモン"
+  :no: 443
+  :type1: "ドラゴン"
+  :type2: "じめん"
+- :name: "ガバイト"
+  :kind: "ほらあなポケモン"
+  :no: 444
+  :type1: "ドラゴン"
+  :type2: "じめん"
+  :evolution_from_name: "フカマル"
+- :name: "ガブリアス"
+  :kind: "マッハポケモン"
+  :no: 445
+  :type1: "ドラゴン"
+  :type2: "じめん"
+  :evolution_from_name: "ガバイト"
+- :name: "ゴンベ"
+  :kind: "おおぐいポケモン"
+  :no: 446
+  :type1: "ノーマル"
+  :type2: 
+- :name: "リオル"
+  :kind: "はもんポケモン"
+  :no: 447
+  :type1: "かくとう"
+  :type2: 
+- :name: "ルカリオ"
+  :kind: "はどうポケモン"
+  :no: 448
+  :type1: "かくとう"
+  :type2: "はがね"
+  :evolution_from_name: "リオル"
+- :name: "ヒポポタス"
+  :kind: "カバポケモン"
+  :no: 449
+  :type1: "じめん"
+  :type2: 
+- :name: "カバルドン"
+  :kind: "じゅうりょうポケモン"
+  :no: 450
+  :type1: "じめん"
+  :type2: 
+  :evolution_from_name: "ヒポポタス"
+- :name: "スコルピ"
+  :kind: "さそりポケモン"
+  :no: 451
+  :type1: "どく"
+  :type2: "むし"
+- :name: "ドラピオン"
+  :kind: "ばけさそりポケモン"
+  :no: 452
+  :type1: "どく"
+  :type2: "あく"
+  :evolution_from_name: "スコルピ"
+- :name: "グレッグル"
+  :kind: "どくづきポケモン"
+  :no: 453
+  :type1: "どく"
+  :type2: "かくとう"
+- :name: "ドクロッグ"
+  :kind: "どくづきポケモン"
+  :no: 454
+  :type1: "どく"
+  :type2: "かくとう"
+  :evolution_from_name: "グレッグル"
+- :name: "マスキッパ"
+  :kind: "むしとりポケモン"
+  :no: 455
+  :type1: "くさ"
+  :type2: 
+- :name: "ケイコウオ"
+  :kind: "はねうおポケモン"
+  :no: 456
+  :type1: "みず"
+  :type2: 
+- :name: "ネオラント"
+  :kind: "ネオンポケモン"
+  :no: 457
+  :type1: "みず"
+  :type2: 
+  :evolution_from_name: "ケイコウオ"
+- :name: "タマンタ"
+  :kind: "カイトポケモン"
+  :no: 458
+  :type1: "みず"
+  :type2: "ひこう"
+- :name: "ユキカブリ"
+  :kind: "じゅひょうポケモン"
+  :no: 459
+  :type1: "くさ"
+  :type2: "こおり"
+- :name: "ユキノオー"
+  :kind: "じゅひょうポケモン"
+  :no: 460
+  :type1: "くさ"
+  :type2: "こおり"
+  :evolution_from_name: "ユキカブリ"
+- :name: "マニューラ"
+  :kind: "かぎづめポケモン"
+  :no: 461
+  :type1: "あく"
+  :type2: "こおり"
+  :evolution_from_name: "ニューラ"
+- :name: "ジバコイル"
+  :kind: "じしゃくポケモン"
+  :no: 462
+  :type1: "でんき"
+  :type2: "はがね"
+  :evolution_from_name: "レアコイル"
+- :name: "ベロベルト"
+  :kind: "なめまわしポケモン"
+  :no: 463
+  :type1: "ノーマル"
+  :type2: 
+  :evolution_from_name: "ベロリンガ"
+- :name: "ドサイドン"
+  :kind: "ドリルポケモン"
+  :no: 464
+  :type1: "じめん"
+  :type2: "いわ"
+  :evolution_from_name: "サイドン"
+- :name: "モジャンボ"
+  :kind: "ツルじょうポケモン"
+  :no: 465
+  :type1: "くさ"
+  :type2: 
+  :evolution_from_name: "モンジャラ"
+- :name: "エレキブル"
+  :kind: "らいでんポケモン"
+  :no: 466
+  :type1: "でんき"
+  :type2: 
+  :evolution_from_name: "エレブー"
+- :name: "ブーバーン"
+  :kind: "ひふきポケモン"
+  :no: 467
+  :type1: "ほのお"
+  :type2: 
+  :evolution_from_name: "ブーバー"
+- :name: "トゲキッス"
+  :kind: "しあわせポケモン"
+  :no: 468
+  :type1: "ノーマル"
+  :type2: "ひこう"
+  :evolution_from_name: "トゲチック"
+- :name: "メガヤンマ"
+  :kind: "オニトンボポケモン"
+  :no: 469
+  :type1: "むし"
+  :type2: "ひこう"
+  :evolution_from_name: "ヤンヤンマ"
+- :name: "リーフィア"
+  :kind: "しんりょくポケモン"
+  :no: 470
+  :type1: "くさ"
+  :type2: 
+  :evolution_from_name: "ブラッキー"
+- :name: "グレイシア"
+  :kind: "しんせつポケモン"
+  :no: 471
+  :type1: "こおり"
+  :type2: 
+  :evolution_from_name: "リーフィア"
+- :name: "グライオン"
+  :kind: "キバサソリポケモン"
+  :no: 472
+  :type1: "じめん"
+  :type2: "ひこう"
+  :evolution_from_name: "グライガー"
+- :name: "マンムー"
+  :kind: 2ほんキバポケモン
+  :no: 473
+  :type1: "こおり"
+  :type2: "じめん"
+  :evolution_from_name: "イノムー"
+- :name: "ポリゴンZ"
+  :kind: "バーチャルポケモン"
+  :no: 474
+  :type1: "ノーマル"
+  :type2: 
+  :evolution_from_name: "ポリゴン2"
+- :name: "エルレイド"
+  :kind: "やいばポケモン"
+  :no: 475
+  :type1: "エスパー"
+  :type2: "かくとう"
+  :evolution_from_name: "キルリア"
+- :name: "ダイノーズ"
+  :kind: "コンパスポケモン"
+  :no: 476
+  :type1: "いわ"
+  :type2: "はがね"
+  :evolution_from_name: "ノズパス"
+- :name: "ヨノワール"
+  :kind: "てづかみポケモン"
+  :no: 477
+  :type1: "ゴースト"
+  :type2: 
+  :evolution_from_name: "サマヨール"
+- :name: "ユキメノコ"
+  :kind: "ゆきぐにポケモン"
+  :no: 478
+  :type1: "こおり"
+  :type2: "ゴースト"
+  :evolution_from_name: "ユキワラシ"
+- :name: "ロトム"
+  :kind: "プラズマポケモン"
+  :no: 479
+  :type1: "でんき"
+  :type2: "ゴースト"
+- :name: "ユクシー"
+  :kind: "ちしきポケモン"
+  :no: 480
+  :type1: "エスパー"
+  :type2: 
+- :name: "エムリット"
+  :kind: "かんじょうポケモン"
+  :no: 481
+  :type1: "エスパー"
+  :type2: 
+- :name: "アグノム"
+  :kind: "いしポケモン"
+  :no: 482
+  :type1: "エスパー"
+  :type2: 
+- :name: "ディアルガ"
+  :kind: "じかんポケモン"
+  :no: 483
+  :type1: "はがね"
+  :type2: "ドラゴン"
+- :name: "パルキア"
+  :kind: "くうかんポケモン"
+  :no: 484
+  :type1: "みず"
+  :type2: "ドラゴン"
+- :name: "ヒードラン"
+  :kind: "かこうポケモン"
+  :no: 485
+  :type1: "ほのお"
+  :type2: "はがね"
+- :name: "レジギガス"
+  :kind: "きょだいポケモン"
+  :no: 486
+  :type1: "ノーマル"
+  :type2: 
+- :name: "ギラティナ"
+  :kind: "はんこつポケモン"
+  :no: 487
+  :type1: "ゴースト"
+  :type2: "ドラゴン"
+- :name: "クレセリア"
+  :kind: "みかづきポケモン"
+  :no: 488
+  :type1: "エスパー"
+  :type2: 
+- :name: "フィオネ"
+  :kind: "かいようポケモン"
+  :no: 489
+  :type1: "みず"
+  :type2: 
+- :name: "マナフィ"
+  :kind: "かいゆうポケモン"
+  :no: 490
+  :type1: "みず"
+  :type2: 
+- :name: "ダークライ"
+  :kind: "あんこくポケモン"
+  :no: 491
+  :type1: "あく"
+  :type2: 
+- :name: "シェイミ"
+  :kind: "かんしゃポケモン"
+  :no: 492
+  :type1: "くさ"
+  :type2: 
+- :name: "アルセウス"
+  :kind: "そうぞうポケモン"
+  :no: 493
+  :type1: "ノーマル"
+  :type2: 
+- :name: "ビクティニ"
+  :kind: "幻のポケモン"
+  :no: 494
+  :type1: "エスパー"
+  :type2: "ほのお"
+- :name: "ツタージャ"
+  :kind: "くさへびポケモン"
+  :no: 495
+  :type1: "くさ"
+  :type2: 
+- :name: "ジャノビー"
+  :kind: "くさへびポケモン"
+  :no: 496
+  :type1: "くさ"
+  :type2: 
+  :evolution_from_name: "ツタージャ"
+- :name: "ジャローダ"
+  :kind: "ロイヤルポケモン"
+  :no: 497
+  :type1: "くさ"
+  :type2: 
+  :evolution_from_name: "ジャノビー"
+- :name: "ポカブ"
+  :kind: "ひぶたポケモン"
+  :no: 498
+  :type1: "ほのお"
+  :type2: 
+- :name: "チャオブー"
+  :kind: "ひぶたポケモン"
+  :no: 499
+  :type1: "ほのお"
+  :type2: "かくとう"
+  :evolution_from_name: "ポカブ"
+- :name: "エンブオー"
+  :kind: "おおひぶたポケモン"
+  :no: 500
+  :type1: "ほのお"
+  :type2: "かくとう"
+  :evolution_from_name: "チャオブー"
+- :name: "ミジュマル"
+  :kind: "ラッコポケモン"
+  :no: 501
+  :type1: "みず"
+  :type2: 
+- :name: "フタチマル"
+  :kind: "しゅぎょうポケモン"
+  :no: 502
+  :type1: "みず"
+  :type2: 
+  :evolution_from_name: "ミジュマル"
+- :name: "ダイケンキ"
+  :kind: "かんろくポケモン"
+  :no: 503
+  :type1: "みず"
+  :type2: 
+  :evolution_from_name: "フタチマル"
+- :name: "ミネズミ"
+  :kind: "みはりポケモン"
+  :no: 504
+  :type1: "ノーマル"
+  :type2: 
+- :name: "ミルホッグ"
+  :kind: "けいかいポケモン"
+  :no: 505
+  :type1: "ノーマル"
+  :type2: 
+  :evolution_from_name: "ミネズミ"
+- :name: "ヨーテリー"
+  :kind: "こいぬポケモン"
+  :no: 506
+  :type1: "ノーマル"
+  :type2: 
+- :name: "ハーデリア"
+  :kind: "ちゅうけんポケモン"
+  :no: 507
+  :type1: "ノーマル"
+  :type2: 
+  :evolution_from_name: "ヨーテリー"
+- :name: "ムーランド"
+  :kind: "かんだいポケモン"
+  :no: 508
+  :type1: "ノーマル"
+  :type2: 
+  :evolution_from_name: "ハーデリア"
+- :name: "チョロネコ"
+  :kind: "しょうわるポケモン"
+  :no: 509
+  :type1: "あく"
+  :type2: 
+- :name: "レパルダス"
+  :kind: "れいこくポケモン"
+  :no: 510
+  :type1: "あく"
+  :type2: 
+  :evolution_from_name: "チョロネコ"
+- :name: "ヤナップ"
+  :kind: "くさざるポケモン"
+  :no: 511
+  :type1: "くさ"
+  :type2: 
+- :name: "ヤナッキー"
+  :kind: "とげざるポケモン"
+  :no: 512
+  :type1: "くさ"
+  :type2: 
+  :evolution_from_name: "ヤナップ"
+- :name: "バオップ"
+  :kind: "こうおんポケモン"
+  :no: 513
+  :type1: "ほのお"
+  :type2: 
+  :evolution_from_name: "バオッキー"
+- :name: "バオッキー"
+  :kind: "ひのこポケモン"
+  :no: 514
+  :type1: "ほのお"
+  :type2: 
+- :name: "ヒヤップ"
+  :kind: "みずかけポケモン"
+  :no: 515
+  :type1: "みず"
+  :type2: 
+- :name: "ヒヤッキー"
+  :kind: "ほうすいポケモン"
+  :no: 516
+  :type1: "みず"
+  :type2: 
+  :evolution_from_name: "ヒヤップ"
+- :name: "ムンナ"
+  :kind: "ゆめくいポケモン"
+  :no: 517
+  :type1: "エスパー"
+  :type2: 
+- :name: "ムシャーナ"
+  :kind: "ゆめうつつポケモン"
+  :no: 518
+  :type1: "エスパー"
+  :type2: 
+  :evolution_from_name: "ムンナ"
+- :name: "マメパト"
+  :kind: "こばとポケモン"
+  :no: 519
+  :type1: "ノーマル"
+  :type2: "ひこう"
+- :name: "ハトーボー"
+  :kind: "のばとポケモン"
+  :no: 520
+  :type1: "ノーマル"
+  :type2: "ひこう"
+  :evolution_from_name: "マメパト"
+- :name: "ケンホロウ"
+  :kind: "プライドポケモン"
+  :no: 521
+  :type1: "ノーマル"
+  :type2: "ひこう"
+  :evolution_from_name: "ハトーボー"
+- :name: "シママ"
+  :kind: "たいでんポケモン"
+  :no: 522
+  :type1: "でんき"
+  :type2: 
+- :name: "ゼブライカ"
+  :kind: "らいでんポケモン"
+  :no: 523
+  :type1: "でんき"
+  :type2: 
+  :evolution_from_name: "シママ"
+- :name: "ダンゴロ"
+  :kind: "マントルポケモン"
+  :no: 524
+  :type1: "いわ"
+  :type2: 
+- :name: "ガントル"
+  :kind: "こうせきポケモン"
+  :no: 525
+  :type1: "いわ"
+  :type2: 
+  :evolution_from_name: "ダンゴロ"
+- :name: "ギガイアス"
+  :kind: "こうあつポケモン"
+  :no: 526
+  :type1: "いわ"
+  :type2: 
+  :evolution_from_name: "ガントル"
+- :name: "コロモリ"
+  :kind: "こうもりポケモン"
+  :no: 527
+  :type1: "エスパー"
+  :type2: "ひこう"
+- :name: "ココロモリ"
+  :kind: "ポケモン"
+  :no: 528
+  :type1: "エスパー"
+  :type2: "ひこう"
+  :evolution_from_name: "コロモリ"
+- :name: "モグリュー"
+  :kind: "もぐらポケモン"
+  :no: 529
+  :type1: "じめん"
+  :type2: 
+- :name: "ドリュウズ"
+  :kind: "ちていポケモン"
+  :no: 530
+  :type1: "じめん"
+  :type2: "はがね"
+  :evolution_from_name: "モグリュー"
+- :name: "タブンネ"
+  :kind: "ヒヤリングポケモン"
+  :no: 531
+  :type1: "ノーマル"
+  :type2: 
+- :name: "ドッコラー"
+  :kind: "きんこつポケモン"
+  :no: 532
+  :type1: "かくとう"
+  :type2: 
+- :name: "ドテッコツ"
+  :kind: "きんこつポケモン"
+  :no: 533
+  :type1: "かくとう"
+  :type2: 
+  :evolution_from_name: "ドッコラー"
+- :name: "ローブシン"
+  :kind: "きんこつポケモン"
+  :no: 534
+  :type1: "かくとう"
+  :type2: 
+  :evolution_from_name: "ドテッコツ"
+- :name: "オタマロ"
+  :kind: "おたまポケモン"
+  :no: 535
+  :type1: "みず"
+  :type2: 
+- :name: "ガマガル"
+  :kind: "しんどうポケモン"
+  :no: 536
+  :type1: "みず"
+  :type2: "じめん"
+  :evolution_from_name: "オタマロ"
+- :name: "ガマゲロゲ"
+  :kind: "しんどうポケモン"
+  :no: 537
+  :type1: "みず"
+  :type2: "じめん"
+  :evolution_from_name: "ガマガル"
+- :name: "ナゲキ"
+  :kind: "じゅうどうポケモン"
+  :no: 538
+  :type1: "かくとう"
+  :type2: 
+- :name: "ダゲキ"
+  :kind: "からてポケモン"
+  :no: 539
+  :type1: "かくとう"
+  :type2: 
+- :name: "クルミル"
+  :kind: "さいほうポケモン"
+  :no: 540
+  :type1: "むし"
+  :type2: "くさ"
+- :name: "クルマユ"
+  :kind: "はごもりポケモン"
+  :no: 541
+  :type1: "むし"
+  :type2: "くさ"
+  :evolution_from_name: "クルミル"
+- :name: "ハハコモリ"
+  :kind: "こそだてポケモン"
+  :no: 542
+  :type1: "むし"
+  :type2: "くさ"
+  :evolution_from_name: "クルマユ"
+- :name: "フシデ"
+  :kind: "ムカデポケモン"
+  :no: 543
+  :type1: "むし"
+  :type2: "どく"
+- :name: "ホイーガ"
+  :kind: "まゆムカデポケモン"
+  :no: 544
+  :type1: "むし"
+  :type2: "どく"
+  :evolution_from_name: "フシデ"
+- :name: "ペンドラー"
+  :kind: "メガムカデポケモン"
+  :no: 545
+  :type1: "むし"
+  :type2: "どく"
+  :evolution_from_name: "ホイーガ"
+- :name: "モンメン"
+  :kind: "わたままポケモン"
+  :no: 546
+  :type1: "くさ"
+  :type2: 
+- :name: "エルフーン"
+  :kind: "かぜかくれポケモン"
+  :no: 547
+  :type1: "くさ"
+  :type2: 
+  :evolution_from_name: "モンメン"
+- :name: "チュリネ"
+  :kind: "ねっこポケモン"
+  :no: 548
+  :type1: "くさ"
+  :type2: 
+- :name: "ドレディア"
+  :kind: "はなかざりポケモン"
+  :no: 549
+  :type1: "くさ"
+  :type2: 
+  :evolution_from_name: "チュリネ"
+- :name: "バスラオ"
+  :kind: "らんぼうポケモン"
+  :no: 550
+  :type1: "みず"
+  :type2: 
+- :name: "メグロコ"
+  :kind: "さばくワニポケモン"
+  :no: 551
+  :type1: "じめん"
+  :type2: "あく"
+- :name: "ワルビル"
+  :kind: "さばくワニポケモン"
+  :no: 552
+  :type1: "じめん"
+  :type2: "あく"
+  :evolution_from_name: "メグロコ"
+- :name: "ワルビアル"
+  :kind: "ポケモン"
+  :no: 553
+  :type1: "じめん"
+  :type2: "あく"
+  :evolution_from_name: "ワルビル"
+- :name: "ダルマッカ"
+  :kind: "だるまポケモン"
+  :no: 554
+  :type1: "ほのお"
+  :type2: 
+- :name: "ヒヒダルマ"
+  :kind: "えんじょうポケモン"
+  :no: 555
+  :type1: "ほのお"
+  :type2: 
+  :evolution_from_name: "ダルマッカ"
+- :name: "マラカッチ"
+  :kind: "サボテンポケモン"
+  :no: 556
+  :type1: "くさ"
+  :type2: 
+- :name: "イシズマイ"
+  :kind: "いしやどポケモン"
+  :no: 557
+  :type1: "むし"
+  :type2: "いわ"
+- :name: "イワパレス"
+  :kind: "いわやどポケモン"
+  :no: 558
+  :type1: "むし"
+  :type2: "いわ"
+  :evolution_from_name: "イシズマイ"
+- :name: "ズルッグ"
+  :kind: "だっぴポケモン"
+  :no: 559
+  :type1: "あく"
+  :type2: "かくとう"
+- :name: "ズルズキン"
+  :kind: "あくとうポケモン"
+  :no: 560
+  :type1: "あく"
+  :type2: "かくとう"
+  :evolution_from_name: "ズルッグ"
+- :name: "シンボラー"
+  :kind: "とりもどきポケモン"
+  :no: 561
+  :type1: "エスパー"
+  :type2: "ひこう"
+- :name: "デスマス"
+  :kind: "たましいポケモン"
+  :no: 562
+  :type1: "ゴースト"
+  :type2: 
+- :name: "デスカーン"
+  :kind: "かんおけポケモン"
+  :no: 563
+  :type1: "ゴースト"
+  :type2: 
+  :evolution_from_name: "デスマス"
+- :name: "プロトーガ"
+  :kind: "こだいがめポケモン"
+  :no: 564
+  :type1: "みず"
+  :type2: "いわ"
+- :name: "アバゴーラ"
+  :kind: "こだいがめポケモン"
+  :no: 565
+  :type1: "みず"
+  :type2: "いわ"
+  :evolution_from_name: "プロトーガ"
+- :name: "アーケン"
+  :kind: "さいこどりポケモン"
+  :no: 566
+  :type1: "いわ"
+  :type2: "ひこう"
+- :name: "アーケオス"
+  :kind: "さいこどりポケモン"
+  :no: 567
+  :type1: "いわ"
+  :type2: "ひこう"
+  :evolution_from_name: "アーケン"
+- :name: "ヤブクロン"
+  :kind: "ゴミぶくろポケモン"
+  :no: 568
+  :type1: "どく"
+  :type2: 
+- :name: "ダストダス"
+  :kind: "ゴミすてばポケモン"
+  :no: 569
+  :type1: "どく"
+  :type2: 
+  :evolution_from_name: "ヤブクロン"
+- :name: "ゾロア"
+  :kind: "わるぎつねポケモン"
+  :no: 570
+  :type1: "あく"
+  :type2: 
+- :name: "ゾロアーク"
+  :kind: "ばけぎつねポケモン"
+  :no: 571
+  :type1: "あく"
+  :type2: 
+  :evolution_from_name: "ゾロア"
+- :name: "チラーミィ"
+  :kind: "チンチラポケモン"
+  :no: 572
+  :type1: "ノーマル"
+  :type2: 
+- :name: "チラチーノ"
+  :kind: "スカーフポケモン"
+  :no: 573
+  :type1: "ノーマル"
+  :type2: 
+  :evolution_from_name: "チラーミィ"
+- :name: "ゴチム"
+  :kind: "ぎょうしポケモン"
+  :no: 574
+  :type1: "エスパー"
+  :type2: 
+- :name: "ゴチミル"
+  :kind: "あやつりポケモン"
+  :no: 575
+  :type1: "エスパー"
+  :type2: 
+  :evolution_from_name: "ゴチム"
+- :name: "ゴチルゼル"
+  :kind: "てんたいポケモン"
+  :no: 576
+  :type1: "エスパー"
+  :type2: 
+  :evolution_from_name: "ゴチミル"
+- :name: "ユニラン"
+  :kind: "さいぼうポケモン"
+  :no: 577
+  :type1: "エスパー"
+  :type2: 
+- :name: "ダブラン"
+  :kind: "ぶんかつポケモン"
+  :no: 578
+  :type1: "エスパー"
+  :type2: 
+  :evolution_from_name: "ユニラン"
+- :name: "ランクルス"
+  :kind: "ぞうふくポケモン"
+  :no: 579
+  :type1: "エスパー"
+  :type2: 
+  :evolution_from_name: "ダブラン"
+- :name: "コアルヒー"
+  :kind: "みずどりポケモン"
+  :no: 580
+  :type1: "みず"
+  :type2: "ひこう"
+- :name: "スワンナ"
+  :kind: "しらとりポケモン"
+  :no: 581
+  :type1: "みず"
+  :type2: "ひこう"
+  :evolution_from_name: "コアルヒー"
+- :name: "バニプッチ"
+  :kind: "しんせつポケモン"
+  :no: 582
+  :type1: "こおり"
+  :type2: 
+- :name: "バニリッチ"
+  :kind: "ひょうせつポケモン"
+  :no: 583
+  :type1: "こおり"
+  :type2: 
+  :evolution_from_name: "バニプッチ"
+- :name: "バイバニラ"
+  :kind: "ブリザードポケモン"
+  :no: 584
+  :type1: "こおり"
+  :type2: 
+  :evolution_from_name: "バニリッチ"
+- :name: "シキジカ"
+  :kind: "きせつポケモン"
+  :no: 585
+  :type1: "ノーマル"
+  :type2: "くさ"
+- :name: "メブキジカ"
+  :kind: "きせつポケモン"
+  :no: 586
+  :type1: "ノーマル"
+  :type2: "くさ"
+  :evolution_from_name: "シキジカ"
+- :name: "エモンガ"
+  :kind: "モモンガポケモン"
+  :no: 587
+  :type1: "でんき"
+  :type2: "ひこう"
+- :name: "カブルモ"
+  :kind: "かぶりつきポケモン"
+  :no: 588
+  :type1: "むし"
+  :type2: 
+- :name: "シュバルゴ"
+  :kind: "きへいポケモン"
+  :no: 589
+  :type1: "むし"
+  :type2: "はがね"
+  :evolution_from_name: "カブルモ"
+- :name: "タマゲタケ"
+  :kind: "きのこポケモン"
+  :no: 590
+  :type1: "くさ"
+  :type2: "どく"
+- :name: "モロバレル"
+  :kind: "きのこポケモン"
+  :no: 591
+  :type1: "くさ"
+  :type2: "どく"
+  :evolution_from_name: "タマゲタケ"
+- :name: "プルリル"
+  :kind: "ふゆうポケモン"
+  :no: 592
+  :type1: "みず"
+  :type2: "ゴースト"
+- :name: "ブルンゲル"
+  :kind: "ふゆうポケモン"
+  :no: 593
+  :type1: "みず"
+  :type2: "ゴースト"
+  :evolution_from_name: "プルリル"
+- :name: "ママンボウ"
+  :kind: "かいほうポケモン"
+  :no: 594
+  :type1: "みず"
+  :type2: 
+- :name: "バチュル"
+  :kind: "くっつきポケモン"
+  :no: 595
+  :type1: "むし"
+  :type2: "でんき"
+- :name: "デンチュラ"
+  :kind: "でんきグモポケモン"
+  :no: 596
+  :type1: "むし"
+  :type2: "でんき"
+  :evolution_from_name: "バチュル"
+- :name: "テッシード"
+  :kind: "とげのみポケモン"
+  :no: 597
+  :type1: "くさ"
+  :type2: "はがね"
+- :name: "ナットレイ"
+  :kind: "とげたまポケモン"
+  :no: 598
+  :type1: "くさ"
+  :type2: "はがね"
+  :evolution_from_name: "テッシード"
+- :name: "ギアル"
+  :kind: "はぐるまポケモン"
+  :no: 599
+  :type1: "はがね"
+  :type2: 
+- :name: "ギギアル"
+  :kind: "はぐるまポケモン"
+  :no: 600
+  :type1: "はがね"
+  :type2: 
+  :evolution_from_name: "ギアル"
+- :name: "ギギギアル"
+  :kind: "はぐるまポケモン"
+  :no: 601
+  :type1: "はがね"
+  :type2: 
+  :evolution_from_name: "ギギアル"
+- :name: "シビシラス"
+  :kind: "でんきうおポケモン"
+  :no: 602
+  :type1: "でんき"
+  :type2: 
+- :name: "シビビール"
+  :kind: "でんきうおポケモン"
+  :no: 603
+  :type1: "でんき"
+  :type2: 
+  :evolution_from_name: "シビルシラス"
+- :name: "シビルドン"
+  :kind: "でんきうおポケモン"
+  :no: 604
+  :type1: "でんき"
+  :type2: 
+  :evolution_from_name: "シビビール"
+- :name: "リグレー"
+  :kind: "ブレインポケモン"
+  :no: 605
+  :type1: "エスパー"
+  :type2: 
+- :name: "オーベム"
+  :kind: "ブレインポケモン"
+  :no: 606
+  :type1: "エスパー"
+  :type2: 
+  :evolution_from_name: "リグレー"
+- :name: "ヒトモシ"
+  :kind: "ろうそくポケモン"
+  :no: 607
+  :type1: "ゴースト"
+  :type2: "ほのお"
+- :name: "ランプラー"
+  :kind: "ランプポケモン"
+  :no: 608
+  :type1: "ゴースト"
+  :type2: "ほのお"
+  :evolution_from_name: "ヒトモシ"
+- :name: "シャンデラ"
+  :kind: "いざないポケモン"
+  :no: 609
+  :type1: "ゴースト"
+  :type2: "ほのお"
+  :evolution_from_name: "ランプラー"
+- :name: "キバゴ"
+  :kind: "キバポケモン"
+  :no: 610
+  :type1: "ドラゴン"
+  :type2: 
+- :name: "オノンド"
+  :kind: "あごオノポケモン"
+  :no: 611
+  :type1: "ドラゴン"
+  :type2: 
+  :evolution_from_name: "キバゴ"
+- :name: "オノノクス"
+  :kind: "あごオノポケモン"
+  :no: 612
+  :type1: "ドラゴン"
+  :type2: 
+  :evolution_from_name: "オノンド"
+- :name: "クマシュン"
+  :kind: "ひょうけつポケモン"
+  :no: 613
+  :type1: "こおり"
+  :type2: 
+- :name: "ツンベアー"
+  :kind: "とうけつポケモン"
+  :no: 614
+  :type1: "こおり"
+  :type2: 
+  :evolution_from_name: "クマシュン"
+- :name: "フリージオ"
+  :kind: "けっしょうポケモン"
+  :no: 615
+  :type1: "こおり"
+  :type2: 
+- :name: "チョボマキ"
+  :kind: "マイマイポケモン"
+  :no: 616
+  :type1: "むし"
+  :type2: 
+- :name: "アギルダー"
+  :kind: "からぬけポケモン"
+  :no: 617
+  :type1: "むし"
+  :type2: 
+  :evolution_from_name: "チョボマキ"
+- :name: "マッギョ"
+  :kind: "トラップポケモン"
+  :no: 618
+  :type1: "でんき"
+  :type2: "じめん"
+- :name: "コジョフー"
+  :kind: "ぶじゅつポケモン"
+  :no: 619
+  :type1: "かくとう"
+  :type2: 
+- :name: "コジョンド"
+  :kind: "ぶじゅつポケモン"
+  :no: 620
+  :type1: "かくとう"
+  :type2: 
+  :evolution_from_name: "コジョフー"
+- :name: "クリムガン"
+  :kind: "ほらあなポケモン"
+  :no: 621
+  :type1: "ドラゴン"
+  :type2: 
+- :name: "ゴビット"
+  :kind: "ゴーレムポケモン"
+  :no: 622
+  :type1: "じめん"
+  :type2: "ゴースト"
+- :name: "ゴルーグ"
+  :kind: "ゴーレムポケモン"
+  :no: 623
+  :type1: "じめん"
+  :type2: "ゴースト"
+  :evolution_from_name: "ゴビット"
+- :name: "コマタナ"
+  :kind: "はものポケモン"
+  :no: 624
+  :type1: "あく"
+  :type2: "はがね"
+- :name: "キリキザン"
+  :kind: "とうじんポケモン"
+  :no: 625
+  :type1: "あく"
+  :type2: "はがね"
+  :evolution_from_name: "コマタナ"
+- :name: "バッフロン"
+  :kind: "ずつきうしポケモン"
+  :no: 626
+  :type1: "ノーマル"
+  :type2: 
+- :name: "ワシボン"
+  :kind: "ヒナわしポケモン"
+  :no: 627
+  :type1: "ノーマル"
+  :type2: "ひこう"
+- :name: "ウォーグル"
+  :kind: "ゆうもうポケモン"
+  :no: 628
+  :type1: "ノーマル"
+  :type2: "ひこう"
+  :evolution_from_name: "ワシボン"
+- :name: "バルチャイ"
+  :kind: "おむつポケモン"
+  :no: 629
+  :type1: "あく"
+  :type2: "ひこう"
+- :name: "バルジーナ"
+  :kind: "ほねわしポケモン"
+  :no: 630
+  :type1: "あく"
+  :type2: "ひこう"
+  :evolution_from_name: "バルチャイ"
+- :name: "クイタラン"
+  :kind: "アリクイポケモン"
+  :no: 631
+  :type1: "ほのお"
+  :type2: 
+- :name: "アイアント"
+  :kind: "てつアリポケモン"
+  :no: 632
+  :type1: "むし"
+  :type2: "はがね"
+- :name: "モノズ"
+  :kind: "そぼうポケモン"
+  :no: 633
+  :type1: "あく"
+  :type2: "ドラゴン"
+- :name: "ジヘッド"
+  :kind: "らんぼうポケモン"
+  :no: 634
+  :type1: "あく"
+  :type2: "ドラゴン"
+  :evolution_from_name: "モノズ"
+- :name: "サザンドラ"
+  :kind: "きょうぼうポケモン"
+  :no: 635
+  :type1: "あく"
+  :type2: "ドラゴン"
+  :evolution_from_name: "ジヘッド"
+- :name: "メラルバ"
+  :kind: "たいまつポケモン"
+  :no: 636
+  :type1: "むし"
+  :type2: "ほのお"
+- :name: "ウルガモス"
+  :kind: "たいようポケモン"
+  :no: 637
+  :type1: "むし"
+  :type2: "ほのお"
+  :evolution_from_name: "メラルバ"
+- :name: "コバルオン"
+  :kind: "てっしんポケモン"
+  :no: 638
+  :type1: "はがね"
+  :type2: "かくとう"
+- :name: "テラキオン"
+  :kind: "がんくつポケモン"
+  :no: 639
+  :type1: "いわ"
+  :type2: "かくとう"
+- :name: "ビリジオン"
+  :kind: "そうげんポケモン"
+  :no: 640
+  :type1: "くさ"
+  :type2: "かくとう"
+- :name: "トルネロス"
+  :kind: "せんぷうポケモン"
+  :no: 641
+  :type1: "ひこう"
+  :type2: 
+- :name: "ボルトロス"
+  :kind: "らいげきポケモン"
+  :no: 642
+  :type1: "でんき"
+  :type2: "ひこう"
+- :name: "レシラム"
+  :kind: "はくようポケモン"
+  :no: 643
+  :type1: "ドラゴン"
+  :type2: "ほのお"
+- :name: "ゼクロム"
+  :kind: "こくいんポケモン"
+  :no: 644
+  :type1: "ドラゴン"
+  :type2: "でんき"
+- :name: "ランドロス"
+  :kind: "ほうじょうポケモン"
+  :no: 645
+  :type1: "じめん"
+  :type2: "ひこう"
+- :name: "キュレム"
+  :kind: "きょうかいポケモン"
+  :no: 646
+  :type1: "ドラゴン"
+  :type2: "こおり"
+- :name: "ケルディオ"
+  :kind: "わかごまポケモン"
+  :no: 647
+  :type1: "みず"
+  :type2: "かくとう"
+- :name: "メロエッタ"
+  :kind: "せんりつポケモン"
+  :no: 648
+  :type1: "ノーマル"
+  :type2: "エスパー"
+- :name: "ゲノセクト"
+  :kind: "こせいだいポケモン"
+  :no: 649
+  :type1: "むし"
+  :type2: "はがね"

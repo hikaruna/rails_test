@@ -1,6 +1,8 @@
 require 'open-uri'
 require 'nokogiri'
 
+ymlfile='data.yml'
+
 namespace :pokemon do
   # descの記述は必須
   desc "ポケモンのデータを攻略サイトからパースしてきます"
@@ -39,20 +41,20 @@ namespace :pokemon do
       STDERR.puts params
       params
     end
-    File.open("tmp/data.yml", 'w') do |f|
+    File.open(ymlfile, 'w') do |f|
       f.puts data.to_yaml
     end
   end
   
-  desc "tmp/data.ymlよみこみ"
+  desc "ymlよみこみ"
   task :import => :environment do
     ActiveRecord::Base.transaction do
-      YAML.load_file("tmp/data.yml").each do |params|
+      YAML.load_file(ymlfile).each do |params|
         params.delete(:evolution_from_name)
         Monster.create!(params)
         puts params
       end
-      YAML.load_file("tmp/data.yml").each do |params|
+      YAML.load_file(ymlfile).each do |params|
         Monster.find_by(no: params[:no]).update!(evolution_from: Monster.find_by(name: params[:evolution_from_name]))
       end
     end
